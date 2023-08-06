@@ -1,0 +1,1713 @@
+{
+  "name": "SamiAmiri",
+  "kind": "youtube#searchListResponse",
+  "etag": "ws3P3RuDZkZIX8u7L1fzkfWyKrE",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 382,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AR6oiYK3wW9hM0A70hY76Z3vHbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cuuwSysfq7U"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-04T05:00:09Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "ما الذي يجب أن تعرفه عن الكتاب الجديد: &quot;تحريف الإنجيل&quot;؟",
+        "description": "تقديم للكتاب الجديد للدكتور سامي عامري: \"تحريف الإنجيل: حقيقته، مناهج دراسته، ومآلاته\".. بحث مستفيض في تحريف العهد الجديد، ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cuuwSysfq7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cuuwSysfq7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cuuwSysfq7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-04T05:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gutBVGUyfeGW0nWWtK0jOg9IHS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v8fwSHgpV2c"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-23T17:10:40Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "خزعل الماجدي -رأس اللادينيين العرب- .. سرقاته وأباطيله",
+        "description": "\"نشر خزعل الماجدي كتابه \"أنبياء سومريون.. كيف تحول عشرة ملوك سومريين إلى عشرة أنبياء توراتيين؟ ليثبت أن أنبياء التوراة والقرآن ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v8fwSHgpV2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v8fwSHgpV2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v8fwSHgpV2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-23T17:10:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yIgDOupaly45pchZ9dyHCmANmco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ilZLIaer3RA"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-25T05:00:14Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الداروينية.. حل أم مشكلة للملاحدة؟",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ilZLIaer3RA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ilZLIaer3RA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ilZLIaer3RA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-25T05:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DDhfVgQnjlMjR87acJsQdxhK6uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J__9oT5uXgg"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-23T17:24:37Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "فتنة العصر.. دين الكوكتال",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J__9oT5uXgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J__9oT5uXgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J__9oT5uXgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-23T17:24:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lha2oZ-FG1uM_sfeecM8htL54hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Eg38pB4_t5c"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-17T05:00:03Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "دوكنز وعجز الإلحاد أمام معضلة الأخلاق",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eg38pB4_t5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eg38pB4_t5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eg38pB4_t5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-17T05:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P0vQ8aM-VTLQMwWkl6XNtg7bCwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CpUsz_GvcDk"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T05:00:03Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "أغاليط دوكنز نبي الملحدين في نقد الإسلام والنصرانية",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CpUsz_GvcDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CpUsz_GvcDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CpUsz_GvcDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T05:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7pCK95nl2-9zP_OhdNOmtE4uVXE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jXermVIlk3E"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-06T05:00:29Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "داوكنز، أصالة الإيمان، ومغالطات الإلحاد",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXermVIlk3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXermVIlk3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXermVIlk3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-06T05:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c6lm8ylLxMcgsEfsohR5Mc2pkhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "za_ybsP1gk8"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T23:08:14Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كتاب داوكنز &quot;تجاوز الإله&quot;.. حقيقته وأسباب قصوره",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/za_ybsP1gk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/za_ybsP1gk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/za_ybsP1gk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T23:08:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oIo4dYDGp-um7Y2OAGj6yEKUQEw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WcwIUR6_IsM"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T20:56:46Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "حديث د. العوضي عن كتاب: العلم وحقائقه، بين سلامة القرآن الكريم وأخطاء التوراة والإنجيل",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WcwIUR6_IsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WcwIUR6_IsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WcwIUR6_IsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-25T20:56:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S_00kd7tX93I6V4ZqmJdaB9PPoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7z161Mn0wwI"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-17T23:10:30Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كلمة في دقيقة 4: انتبه.. لم يكلّفنا الله بالنصر",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7z161Mn0wwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7z161Mn0wwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7z161Mn0wwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-17T23:10:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tLI3_C7JFtJxw-zFffieIjMj4CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y8-H3cflHSI"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-12T19:54:06Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كلمة في دقيقة 3: الاستغفار.. النعمة المجهولة",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8-H3cflHSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8-H3cflHSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8-H3cflHSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-12T19:54:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r5WU3cX9FhREjPCcPceWbMgNSPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RENcoMI6vcc"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-07T19:41:19Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كلمة في دقيقة 2: المتعاطفون لا يغيّرون العالم",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RENcoMI6vcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RENcoMI6vcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RENcoMI6vcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-07T19:41:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SINu1pvg6WknHRui9KsD_NbmaOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9MMIHaEcVzY"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-05T06:24:34Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كلمة في دقيقة1: أَحَبُّ حديث إلى قلبي",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9MMIHaEcVzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9MMIHaEcVzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9MMIHaEcVzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-05T06:24:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D3K-50aOpKbtWsbwRWhrDHBROBE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sCOxJefVQhQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-21T00:15:25Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "اللاديني أحمد سعد زايد، وفشل جديد في التشكيك في تاريخية الأنبياء",
+        "description": "لدعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sCOxJefVQhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sCOxJefVQhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sCOxJefVQhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-21T00:15:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LUBJSS7ODp-1RRctxrhrrnc-5hU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DV5ZM5t4iiM"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-28T03:20:41Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "تعليق د  سامي عامري على مناظرة دكتور منقذ السقار مع رشيد حول شخصية المسيح عليه السلام في القرآن",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DV5ZM5t4iiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DV5ZM5t4iiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DV5ZM5t4iiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-28T03:20:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A_VTpjjLUdt4KqXJoJCwWDjfUuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TssvO3tukXE"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-31T02:56:15Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "جهالات اللاديني أحمد سعد زايد في الرد على كتاب: الوجود التاريخي للأنبياء",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TssvO3tukXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TssvO3tukXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TssvO3tukXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-31T02:56:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eDEFpLeAUF6ly4KTu_073qs-s-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GZGBREqA1g4"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-30T16:00:06Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الله والعلم والأدلة.. الكتاب الفرنسي الذي هزّ الإلحاد في فرنسا",
+        "description": "لتنزيل الكتب مجانًا، ودعم مؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: https://www.almubadaradonations.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZGBREqA1g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZGBREqA1g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZGBREqA1g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-30T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "geFdiWZMXyPgVbLrX5mHBUCCtzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7eOkKhinA7I"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-02T04:39:48Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "بابا الكنيسة يعترف بتحريف الإنجيل",
+        "description": "ماذا قال بابا الكنيسة عن خاتمة إنجيل مرقس؟ وماذا قالت الكنيسة الكاثوليكية عن هدف النقد النصي؟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7eOkKhinA7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7eOkKhinA7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7eOkKhinA7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-02T04:39:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z8XJUbdOVv14k5oqLsDyNRDBaEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yS9GXWWIe2g"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-06T05:00:30Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "منهجية قراءة كتب الدكتور سامي عامري",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yS9GXWWIe2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yS9GXWWIe2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yS9GXWWIe2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-06T05:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IidutN2mSiHcVUgg6559rwDjet4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RQojOz1Js4s"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-04T15:15:00Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "السؤال الذي هربت  الكنيسة المصرية من مواجهته",
+        "description": "هاجمت الكنيسة المصرية كتاب \"نقد التقليد الكنسي\" للأستاذ محمد هنداوي من الناحيتين العقدية والتاريخية، لكنها لم تناقش جوهر فكرة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQojOz1Js4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQojOz1Js4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQojOz1Js4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-04T15:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CWthZbvLRKngnf2mGa7NTQoBUiw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2GOjuHvtOtQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-02T15:00:02Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الكنيسة المصرية وإسرافها في ممارسة هرطقة النصارى والمسلمين",
+        "description": "قامت الكنيسة المصرية بالتحريض على كتاب \"نقد التقليد الكنسي\" للأستاذ محمد هنداوي الأزهري لسحبه من معرض القاهرة الدولي للكتاب ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2GOjuHvtOtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2GOjuHvtOtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2GOjuHvtOtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-02T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2wDpSejFAnBBu0FsyRHvGwxwX0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PcOAc5-auyI"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-30T20:01:16Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "رسالة مفتوحة إلى الكنيسة المصرية بعد سحب كتاب: نقد التقليد الكنسي",
+        "description": "قامت الكنيسة المصرية أثناء معرض القاهرة الدولي للكتاب (1442هـ-2021م) بالتحريض على سحب كتاب \"نقد التقليد الكنسي\" للأستاذ محمد ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PcOAc5-auyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PcOAc5-auyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PcOAc5-auyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-30T20:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "42Ua4SB5AQuzB2xvWsmEdVA_rTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FomDfzcM61U"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-28T06:32:29Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الإعلان عن كتاب :الإلحاد في مواجهة نفسه",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FomDfzcM61U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FomDfzcM61U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FomDfzcM61U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-28T06:32:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3812Zx4-D3b3tEputcZg9QgSbJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i2rP8HSDShA"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-25T06:52:26Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الإعلان عن كتاب: العلموية.. الأدلجة الإلحادية للعلم في الميزان",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2rP8HSDShA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2rP8HSDShA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2rP8HSDShA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-25T06:52:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Yr7kcbEBi55z58P0EgH4wrxu34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rX9wP1GK-0o"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-20T05:49:20Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الإعلان عن كتاب: الوجود التاريخي للأنبياء وجدل البحث الأركيولوجي",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rX9wP1GK-0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rX9wP1GK-0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rX9wP1GK-0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-20T05:49:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z-cF4HYrslgKhKw8Re3tf44rYi4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r-SkBiXWXow"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-12T10:39:21Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "عجائب وفرائد مناظرة د.منقذ السقار والمنصّر رشيد حمامي",
+        "description": "لدعم استمرار النشاط العلمي والدعوي لمؤسسة : مبادرة البحث العلمي للمذاهب المعاصرة والأديان انقر هنا فضلا: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r-SkBiXWXow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r-SkBiXWXow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r-SkBiXWXow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-12T10:39:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KFknWiKBvelh_O5QSLl91zeOvkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QFPzl8oXF5A"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-11T05:38:40Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الإعلان عن كتاب: البشارة بنبي الإسلام في كتب اليهود والنصارى",
+        "description": "كتاب: البشارة بنبي الإسلام في كتب اليهود والنصارى تأليف : د. سامي عامري نشر/ مركز تكوين 1442 هـ-2021م.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QFPzl8oXF5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QFPzl8oXF5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QFPzl8oXF5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-11T05:38:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqfyrZHl7uiBfQmOCoxsSFFy_Ag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EYJODVansxw"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-26T15:00:03Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "أخطاء وخطايا في مواجهة الإلحاد",
+        "description": "مواجهة الإلحاد عمل دعوي يحتاج إلى ترشيد؛ حتى يؤتي أكله.. وفي هذه المحاضرة حديث عن تسع أخطاء وخطايا في قراءة هذه الظاهرة ومواجهتها.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYJODVansxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYJODVansxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYJODVansxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-26T15:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WVEL8pfUIzZSxYkhDFaablb5cHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "teDe3KFMrI4"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-05T14:45:02Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "قواعد نقد الأديان",
+        "description": "ما هي أصول نقد الأديان ؟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/teDe3KFMrI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/teDe3KFMrI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/teDe3KFMrI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-05T14:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LTo-SgRRcJPOIBNw-A5xr3hU9Yo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UL-lMGsU680"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-01T05:43:23Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كلمة في دقيقة إلى من لا يخدمون الدين",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UL-lMGsU680/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UL-lMGsU680/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UL-lMGsU680/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-01T05:43:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xtnFCWa2Ta7ERXcfjBcxyVCKUQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mdPyw23nHCc"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-03T00:17:56Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "لقمتان.. بألف كلمة",
+        "description": "شاهدتُ هذين المقطعين في فيديوهين اثنين مختلفين.. فجمعتهما في مقام واحد بيانًا لمحنة \"اللقمة\".. لقمة أولى يُخفي بها المرء إسلامه في ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mdPyw23nHCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mdPyw23nHCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mdPyw23nHCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-03T00:17:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q_70bEh79A2rTmoauSjyZzBC92Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OkQ3Enl4o4s"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-12T23:28:30Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الإسلاموفوبيا الجديدة.. تجارة الخوف من الإسلام",
+        "description": "تعليق على كتاب عالم الاجتماع الفرنسي فانسون جيسير : La Nouvelle Islamophobie.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkQ3Enl4o4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkQ3Enl4o4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkQ3Enl4o4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-12T23:28:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GPWDH5b49lPRRQr5H08lv7GRXWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q3hP8uSfoqI"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T19:45:06Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "من ساحة المسجد الأقصى، الإعلان عن نتائج مسابقة فضائل الشام  وبيت المقدس",
+        "description": "أثناء مؤامرات التفريط في أرض المسرى، أطلقت مؤسسة (مبادرة البحث العلمي لمقارنة الأديان) مسابقة على فايسبوك وتويتر في ذكر أقوال ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q3hP8uSfoqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q3hP8uSfoqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q3hP8uSfoqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T19:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y7d8P70617m_tMMhkpOHjPLarP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L81R4eeg0aA"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-24T12:55:22Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "التشكيك في وجود الأنبياء بين خزعل الماجدي وفاضل الربيعي",
+        "description": "نظرات في دعاوى التشكيك في وجود الأنبياء من الناحية الأركيولوجية في حديث خزعل الماجدي وفاضل الربيعي. مقالة الشيخ حمد الجاسر في ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L81R4eeg0aA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L81R4eeg0aA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L81R4eeg0aA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-24T12:55:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ypgcv-hSoDDWXg3mscIC2adN6VU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bh6gwKD57NE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-15T06:17:35Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كتب تفاسير الأناجيل بالفرنسية، توجيهات وتنبيهات",
+        "description": "الاستفادة من التفاسير ضرورة علمية في دراسة العهد الجديد (الإنجيل). وفي هذا الفيديو تعليقات عامة ، وتنبيه على أهم تفسير في رأي د.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bh6gwKD57NE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bh6gwKD57NE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bh6gwKD57NE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-15T06:17:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-LolCHM3A8L1QHTWnqm2xzsMkB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "St0Og7ITFnU"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-10T10:53:24Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "المشروع الدعوي الذي تأثم الأمة بخذلانه",
+        "description": "هل أدت الأمة واجبها في دفع الشبهة والشك عن أبنائها؟ ألم تأثم بتركها توفير الجواب للسائلين الحائرين؟ هنا، فكرة... حتّى لا نأثم.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/St0Og7ITFnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/St0Og7ITFnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/St0Og7ITFnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-10T10:53:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nRVTSfOcmIClFd1TFDBvitVebSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tAN9Rg7BhkU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-31T21:10:12Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "بلعام بن باعوراء، خطأ في التوراة وكتب تفسير القرآن",
+        "description": "هل عاش بلعام بن باعوراء زمن موسى عليه السلام؟ وهل جاء خبره في القرآن في قوله تعالى \"وَاتْلُ عَلَيْهِمْ نَبَأَ الَّذِي آتَيْنَاهُ آيَاتِنَا فَانسَلَخَ مِنْهَا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tAN9Rg7BhkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tAN9Rg7BhkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tAN9Rg7BhkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-31T21:10:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7HULqfYayyT7iTcYE9evUomGKoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e2sgPFluQ6M"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-21T20:38:42Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "شبهة: هل أخطأ القرآن في استعمال كلمة (السامري)؟",
+        "description": "جاء في القرآن : وَمَا أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَى قَالَ هُمْ أُولاء عَلَى أَثَرِي وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَى قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e2sgPFluQ6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e2sgPFluQ6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2sgPFluQ6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-21T20:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wS84BCdlo_SV3VICJoorZVhnLBs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uVOuhTRDb0U"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-22T01:31:49Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "مسلمون لا محافظون!",
+        "description": "كثيرًا ما يقول الناس في استنكارهم للفساد المنتشر في المجتمع: نحن نرفض هذه السلوكيات؛ لأننا مجتمع محافظ! فهل في هذا الجواب نكارة؟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uVOuhTRDb0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uVOuhTRDb0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uVOuhTRDb0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-22T01:31:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_PMtxHKCzKwXTdURRLKzRtXw9Y0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M8_RCxDV23M"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-14T04:13:23Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الطريق المختصر إلى المراجع العلمية لدراسة النصرانية",
+        "description": "نصيحة في شأن أقرب الطرق للوصول إلى مراجع لأبحاث العلمية تخصصية في الدراسات النصرانية (واليهودية). Index to periodical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M8_RCxDV23M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M8_RCxDV23M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M8_RCxDV23M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-14T04:13:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FmwhQ19ENakLvczPzAZZ1qm9SMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AhfI8jCRNtE"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-09T10:30:01Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الأصول الأربعة للنصر في معركتنا مع العالمانية",
+        "description": "أربعة أصول لا يأتي بإهدارها نصر في زمن هيمنة العالمانية على واقعنا.. وهي في حقيقتها من أعظم أسباب فشل محاولات إصلاح واقعنا في تجرب ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AhfI8jCRNtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AhfI8jCRNtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AhfI8jCRNtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-09T10:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FHoeMhlLb3A3hSKMazmDDab70rE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5n-gpt1-1Ew"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-03T05:28:29Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "اعتراض: الإسلام ليس الطريق لحل أزمة تخلفنا العلمي والاقتصادي",
+        "description": "هل لو صمنا نهارنا وقمنا في الليل مصلين، سنخرج من تخلفنا التكنولوجي وما نعانيه من أزمات اجتماعية وسياسية..؟ أليس هذا الحل مجرّد جواب ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5n-gpt1-1Ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5n-gpt1-1Ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5n-gpt1-1Ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-03T05:28:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I_fB_VFViF13S7T2bDdMfg5_MKQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QX7HQdYFtS0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-17T04:37:08Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كتب مهمة في موضوع وجود الله جلّ وعلا",
+        "description": "الحلقة الرابعة من سلسلة \"المسلم المثقف\". في هذه الحلقة نعرض لكتب متنوعة في بيان الأدلة على وجوب الإقرار بوجود ربّ خالق بديع.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QX7HQdYFtS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QX7HQdYFtS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QX7HQdYFtS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-17T04:37:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lTMrLjxU100P0pLvmCd-TMuE1Ow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r74rzh3NrOA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-20T02:33:23Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "من خالفك في المرجعية فقد خالفك في الدين (الليبرالية، النِسوية...)",
+        "description": "الخلاف بين الإسلام وجميع الأيديولوجيات العالمانية، خلاف في المرجعية، وليس خلافًا في التأويل.. وهو بذلك خلاف ديني فاصل بين أمّتين..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r74rzh3NrOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r74rzh3NrOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r74rzh3NrOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-20T02:33:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v-84BaPB9v3K2CghAytvKaTrpW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "npb037HvgQI"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-16T21:00:13Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كيف تكتشف مخالفة مخطوطات البحر الميت للتوراة الحالية؟",
+        "description": "مخطوطات البحر الميت المكتشفة منتصف القرن الماضي تضم أقدم القراءات المتاحة للتوراة .. فما هي أهم المراجع العلمية التي من الممكن أن ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/npb037HvgQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/npb037HvgQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/npb037HvgQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-16T21:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "02V1-PbeGsHNN5siHf12gZ7yCPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l3w-ejffSN0"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-14T11:58:06Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "دين الإسلام ودين النِسوية (فمنيزم).. لماذا لا يجتمعان؟",
+        "description": "هل سمعت مرة عن \"مسلِمة نسوية\"؟ وهل طرق سمعك من يجعل الدعوة النِسوية بعيدة عن مخاصمة الدين عامة والإسلام خاصة؟ إذن، شاهد هذا الفيديو في ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l3w-ejffSN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l3w-ejffSN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3w-ejffSN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-14T11:58:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XJrn7DZWx363bFJXt6lGOFXGFhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OXAVm3PFmSU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-28T05:29:56Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "هل حقًا أحرج القسيس الشيخ؟ مناقشة خلق المسيح الطير في القرآن",
+        "description": "انتشر بين المسيحيين فيديو لقسيس يُقال إنه أثبات للشيخ المسلم أن المسيح إله في القرآن لأنه خلق طيرًا.. فما حقيقة الأمر؟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OXAVm3PFmSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OXAVm3PFmSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OXAVm3PFmSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-28T05:29:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A8L50QC1eEfZgWyTle_9ob9dVp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RV_TtD8M0zc"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-26T01:11:41Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "كتب مهمة في موضوع دلائل نبوة محمد صلّى الله عليه وسلّم",
+        "description": "أحد الإخوة جزاه الله خيرا جمع في ملف واحد الكتب المشار إليها في الفيديو https://archive.org/details/10_20200427_20200427_2213 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RV_TtD8M0zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RV_TtD8M0zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RV_TtD8M0zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-26T01:11:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LruLS8KER1S19sxAZSRxkDPlaJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RypzLpZJrgo"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-20T18:37:29Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "أهم المراجع العلمية لاختلاف مخطوطات الأناجيل وتحريفها",
+        "description": "موضوع تحريف الأناجيل، موضوع هام في الحوار الإسلامي النصراني، والعودة فيه لا بد أن تكون إلى المراجع العلمية الأكاديمية المعتبرة، وفي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RypzLpZJrgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RypzLpZJrgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RypzLpZJrgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-20T18:37:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0PlTXanL7NHkHFSl_CG6RX-4WtY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8r58ZC5uzM8"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-15T02:07:41Z",
+        "channelId": "UCm85scTKjex-ah3psqbykvw",
+        "title": "الكتاب الغربي الذي نسف جهود المسيحيين العرب لإنكار تحريف الإنجيل",
+        "description": "صدر في الولايات المتحدة الأمريكية السنة الماضية كتاب \"أساطير وأخطاء\" بقلم مجموعة من العلماء الإنجيليين، وفيه كشف هؤلاء العلماء أباطيل ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8r58ZC5uzM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8r58ZC5uzM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8r58ZC5uzM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "د. سامي عامري Dr. Sami Ameri",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-15T02:07:41Z"
+      }
+    }
+  ]
+}

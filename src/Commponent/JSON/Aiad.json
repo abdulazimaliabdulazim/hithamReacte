@@ -1,0 +1,1713 @@
+{
+  "name": "Iiad",
+  "kind": "youtube#searchListResponse",
+  "etag": "kComu8pOr0Ps7jkbWI4Vh_KXJhE",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 767,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "osYJSGmDoPWi-A2gH0D59JIRzHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7UrROSSWl2M"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-24T15:55:15Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "دورة كيف تقدم محتوى طبيا بشكل ناجح",
+        "description": "هذه الدورة تسد ثغرة مهمة بعدما شاهدته من مشاكل في كثير من المحاضرات تضيع فائدة محتوىٍ مهم. ستكون دورة نافعة جدا بإذن الله، أقدمها من خلال ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7UrROSSWl2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7UrROSSWl2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7UrROSSWl2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-24T15:55:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wY1OASa0WdX6vvLY9TmeG8kWbBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W1RrD9rptuY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-23T13:31:21Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "عن هالة عاهد-بهدوء",
+        "description": "في هذه الكلمة نقاش يصلح تطبيقه على الحالات المشابهة الأخرى في بلاد المسلمين: شغلت قصة هالة عاهد الشارع الأردني في الأيام الماضية.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W1RrD9rptuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W1RrD9rptuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W1RrD9rptuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-23T13:31:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OA3bXGyAsOq0Aod7xOXRDsPUdNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pp6uP2SB7z8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-01T11:35:11Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "إبرة التخدير لنشرالنوع الاجتماعي",
+        "description": "هذه جرعة مركزة من تعليم التفكير الناقد حتى ننتبه لما يدس في #المناهج_المدرسية لأبنائنا..كيف يتم تمرير التمرد على دين الله تحت ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pp6uP2SB7z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pp6uP2SB7z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pp6uP2SB7z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-01T11:35:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PIXUTaxi-JlIGODdet4nfY4tWOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mddYs5Uw7gs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-30T17:31:30Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "وقفة مع نتائج الانتخابات التركية",
+        "description": "الكلمة المشار إليها عن ماذا تعني إقامة الشريعة: https://youtu.be/5HsU7SAMmRE الصفحة الشخصية على الفيس بوك ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mddYs5Uw7gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mddYs5Uw7gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mddYs5Uw7gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-30T17:31:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mp7kWrbZHlzsI9oNGRtMFocjcbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PxgCd3-k02Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-25T09:48:24Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "النوع الاجتماعي-الدين الجديد",
+        "description": "هل كنت تتصور أننا سنصل إلى مرحلة يتم فيها سؤال الطلاب في المدارس عن عقيدتهم حول النوع الاجتماعي، والذي يتكلم بخلاف دين الجندر ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PxgCd3-k02Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PxgCd3-k02Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PxgCd3-k02Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-25T09:48:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0EXRYgH0hR1GGZ3yXgYRPOC2EYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MOiUbaPBsI8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T15:58:03Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "الاستسلام للشيطان - الجندر 2",
+        "description": "هل تذكرون قصة النوع الاجتماعي والعائلة رايمر كيف سلم الوالدان ابنيهما بروس وبريان للسافل جون موني، والذي أشرف على قطع أعضاء من ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MOiUbaPBsI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MOiUbaPBsI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MOiUbaPBsI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T15:58:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fiFD_chiNB9DzoLw55z8QCYGF_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M3Eg557qRE8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-11T16:00:29Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "الجندر &quot;النوع الاجتماعي&quot; - حقيقته وما وراءه",
+        "description": "بعض مراجع حلقة الجندر (النوع الاجتماعي)-حقيقته وما وراءَه 1. وثائقية البي بي سي: الولد الذي نُشِّئ كبنت: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3Eg557qRE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3Eg557qRE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3Eg557qRE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-11T16:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NmDjI7IeeuGIQNWcaQW764ooja4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K_BLW1uxe78"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-10T07:17:05Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "إذا وُضع مسدس في رأسك !",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K_BLW1uxe78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K_BLW1uxe78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K_BLW1uxe78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-10T07:17:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7RJTKWcmtNf8J4RfNlZZWPpKE7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "39s87yBKX4Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-27T18:54:56Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "دليل المصطلحات الطبية الصيدلانية PharMedTerm",
+        "description": "صدرت بفضل الله الطبعة الثالثة من كتابنا PharMedTerm دليل المصطلحات الطبية الصيدلانية تأليف أ.د. إياد قنيبي و أ.د.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/39s87yBKX4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/39s87yBKX4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/39s87yBKX4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-27T18:54:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wlk4hu8hfWfWQhweCBctE2cqXlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IMOD0FZ7yj8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T15:58:05Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "بخاخات الكورتيزون الأنفية آمنة لالتهاب الأنف التحسسي #فوائد _طبية ٣٣",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMOD0FZ7yj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMOD0FZ7yj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMOD0FZ7yj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T15:58:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gVFE0LdQ0HROkXROuBYSgsRW2J0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gb3Xt7Q64cs"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-30T14:12:44Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "هل القضية هي زواج القاصرات بالفعل أم وراءها أمر آخر؟",
+        "description": "سمعونا_صوتكم #لا_لوصايتكم جاءتني رسالة من طالبة ببلد عربي تقول فيها: \"أريد نصيحة من د. إياد (ضروري رجاءً): \"في المادة الفلانية ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gb3Xt7Q64cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gb3Xt7Q64cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gb3Xt7Q64cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-30T14:12:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nCu3jwSfxMDBfd0hU3NssRi4qlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kooQmWkcxeY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T03:43:36Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "هل الأدوية المحتوية على كورتيزون تسبب اضطرابات نفسية؟ #فوائد_طبية 32",
+        "description": "هذه المعلومة يغفل عنها كثير من الناس بل وحتى المعالجين، وهي مؤثرة مهمة. - انظر للجدول 1 في هذه الورقة والذي يبين الاضطرابات النفسية ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kooQmWkcxeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kooQmWkcxeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kooQmWkcxeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T03:43:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8SVhxjlc6YEAaqnfMuIW2rn146I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ezCoLB0D7dU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T15:30:24Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "نصائح لنكون نشيطين في رمضان",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezCoLB0D7dU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezCoLB0D7dU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezCoLB0D7dU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T15:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C-u0JQIHK1nafpvvF4uxsCj4ZZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fCOeWUi2nBA"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-18T09:46:27Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "ماذا بعد أن نهشت الكلابُ أبناءَنا؟!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCOeWUi2nBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCOeWUi2nBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCOeWUi2nBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-18T09:46:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jxDEAPkTSQbothPwS-OTrJ2vtPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XFGokAWKBzk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-16T11:43:32Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "كتبنا في الشماال السوري",
+        "description": "هذا المقطع له في القلب مكانة، ليس فقط لأنه يعرض كتب العبد الفقير بطريقة جميلة، بل أيضاً لأن الأخ صاحب المكتبة مصمم المقطع له ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XFGokAWKBzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XFGokAWKBzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XFGokAWKBzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-16T11:43:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5BCDkFhffvQbXVMwLOm8_p0Lr8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yvvyM7gWRfg"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-15T17:10:04Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "بيوتنا-مَن المسؤول إذا لم تصمد أمام الزلازل؟",
+        "description": "قد يبدو العنوان غريباً ويقول قائل: \"الزلزال من قدَر الله، وليس من مسؤولية البشر!\" لكن الأمر له بعد آخر لم يتم التطرق له بشكل كافٍ أبداً.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yvvyM7gWRfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yvvyM7gWRfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yvvyM7gWRfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-15T17:10:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SxYWEhguNqsCilA_Ru8JKbpKYeE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O7XDKiBga8U"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T07:32:18Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "لماذا يعاقب الله أناساً يحسبون أنهم يحسنون صنعا؟ قاعدة ذهبية لمعرفة الحق",
+        "description": "هذه اللفتة موجودة في كتابنا الجديد \"قبل أن يُضرب السور\"، والذي سيصدر قريباً بإذن الله.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O7XDKiBga8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O7XDKiBga8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7XDKiBga8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T07:32:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mObcGby3pe0ifjYDXPiwzE8Khao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I3g18ZBZ7Xs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T08:51:05Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "ليس لك عند الله حقوق-درس من إخواننا المبتلَين بالزلزال",
+        "description": "درس نتعلمه منهم-يحتاجه كل من يعتب على القدرلأي سبب، وكل من يسخط لأتفه الأسباب! فليتعلموه قبل فوات الأوان!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3g18ZBZ7Xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3g18ZBZ7Xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3g18ZBZ7Xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T08:51:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FyHF_-W67VfPLvnazxU-QFloGpA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oYc5E29UyQM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T07:44:50Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "لم تهونوا على الله",
+        "description": "كلمة يحتاجها إخواننا المنكوبون لنقطع طريق الشيطان إلى قلوبهم.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oYc5E29UyQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oYc5E29UyQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oYc5E29UyQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T07:44:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kwTdXbe9iZLROIlOlaO_NtKZnUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qJl8E9nvvLI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-12T08:19:16Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "الزلزال والفخر بالمسلمين",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJl8E9nvvLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJl8E9nvvLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJl8E9nvvLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-12T08:19:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w5Zv5TxeX6SeqPIhbhLhFfxUNIQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xQkcRUf1Eh8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T07:55:30Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "هل الزلزال ظاهرة طبيعية أم نذير نتيجة الذنوب؟",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQkcRUf1Eh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQkcRUf1Eh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQkcRUf1Eh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T07:55:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wUAMcMnoH8Qpu5lO0Ko-CPNdP6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E2CLmXd6fIM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T09:36:15Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "أدعية ثابتة عن نبينا صلى الله عليه وسلم ندعو بها في مثل هذه الظروف",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E2CLmXd6fIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E2CLmXd6fIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E2CLmXd6fIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T09:36:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_FpEK7dHM4bh6Dt7mJWjmiKI2Kw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "id71VSy9laI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T12:54:28Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "زلزال تركيا وسوريا",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/id71VSy9laI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/id71VSy9laI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/id71VSy9laI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T12:54:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0WFD5TzKGF3my1E9w06j341xrRY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gAzhhBs0vGc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-22T08:41:54Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "مسابقة &quot;أنت مهم&quot; لشباب وشابات العالم سن 13-19 سنة",
+        "description": "للتسجيل في المسابقة www.mohim.net أو https://t.me/AntaMohim نموذج الداعمين: https://forms.gle/XbhyqddvTXiVLL7A7 تفاصيل ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAzhhBs0vGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAzhhBs0vGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAzhhBs0vGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-22T08:41:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CrVFqvU-QfEwvE8GW33IS8JE-ms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zSmX3nHklT4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-18T10:59:55Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "تنبيه على استغلال وساعدونا لننشر رواية إيناس وغيرها إلكترونيا",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zSmX3nHklT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zSmX3nHklT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSmX3nHklT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-18T10:59:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SwevwEbbD3Ju8vV4gbdXx9sU8OI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cf953UtMWRM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T08:29:45Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "إعلان الفائزين والجوائز في مسابقة فلسطين تتصدى للحرب على الفطرة",
+        "description": "كنا قد أجرينا مسابقة لأهل فلسطين لتقوية الاعتزاز بالإسلام والقدرة على التصدي للحرب على الفطرة. وقد كانت المشاركة طيبة وتميز عدد ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cf953UtMWRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cf953UtMWRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cf953UtMWRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T08:29:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7lsMtol-UoG-lMm-i0BIlirftVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j5CWMJx2vrE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T14:53:28Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "كتابان جديدان لإياد قنيبي",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j5CWMJx2vrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j5CWMJx2vrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j5CWMJx2vrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T14:53:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "30Fmix3IFWpcHm5OSUb1BzY62_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Icp6pnfqjNI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T11:39:11Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "حقيقة المؤسسات السيداوية في فلسطين",
+        "description": "هذه المؤسسات التي تُعَرف على نفسها على أنها خيرية، تثقيفية، تنصر قضايا المرأة، تحارب العنف، تريد \"المساواة\"..ما حقيقتها؟ مَن يمولها.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Icp6pnfqjNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Icp6pnfqjNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Icp6pnfqjNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T11:39:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HVVsXqIduh5qZC2KSVoa8ivHkKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7tYYlHa3eqw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-26T11:02:29Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "ما لا يذكره الإعلام-الملوخية بالمهلبية",
+        "description": "1. رابط خبر منع الموظفات https://tinyurl.com/AfghanWomenEmployeeBan 2. وصف الاستيلاء على ال7 مليار بأنه قتل جماعي للأفغان: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7tYYlHa3eqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7tYYlHa3eqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7tYYlHa3eqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-26T11:02:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FhzrFqNujmsHDbWxfPm472DUMUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dp7ZeGLFYUE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-24T16:03:28Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "بخصوص تعليق تعليم الفتيات في جامعات أفغانستان",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dp7ZeGLFYUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dp7ZeGLFYUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dp7ZeGLFYUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-24T16:03:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Zt4KsoiXbgVingENA1ScaqtXmA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ouMEnTPMbcI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T15:17:28Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "رسالة لجاري النصراني بمناسبة الكريسماس",
+        "description": "رسالة لجاري النصراني بمناسبة الكريسماس وللمسلمين الذين يرون أن هذا الكلام يمثلهم: أرسلوه لجيرانكم وزملائكم من غير المسلمين.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ouMEnTPMbcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ouMEnTPMbcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ouMEnTPMbcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-17T15:17:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O1qf4upUyYoFQoB_OOiIb7NzWfs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-LGlMDY2nG4"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T11:33:36Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "المسابقة من خلال فيسبوك ولا داعي لمزيد من الجوائز",
+        "description": "هذا رابط المنشور الذي ستنزل عليه مواد المسابقة تباعاً بإذن الله: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-LGlMDY2nG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-LGlMDY2nG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-LGlMDY2nG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-17T11:33:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "noT4rg8JpZMlZNNo6Q8KYeQ2ijg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aUDkfJFmGzc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T18:38:09Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "مسابقة: فلسطين تتصدى للحرب على الفطرة",
+        "description": "رابط القناة https://t.me/ProtectFitra نموذج الداعمين/مع ملاحظة أن المطلوب الدعم من داخل فلسطين. وهذا مقدم على الإخوة في الخارج جزاهم الله خيرا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aUDkfJFmGzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aUDkfJFmGzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aUDkfJFmGzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T18:38:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YtqXZiGDgRl2UuCU6rQfCenq8EM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YenqKqV_u6Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-04T15:29:16Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "رسالة إلى &quot;المرأة القوية المستقلة&quot;",
+        "description": "أحب أن أطرق هذه المواضيع بمعالجة من كافة الجوانب حتى يوضع الكلام في مواضعه. وهذا مما أخر استئناف سلسلة المرأة. لكنني أنشر هذا المقطع ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YenqKqV_u6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YenqKqV_u6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YenqKqV_u6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-04T15:29:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cEeOs0grBCzQmbmEdrkVEc9sJjE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YPgzTBbZFFU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T16:01:02Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "نموذج رائع-أمة واحدة",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPgzTBbZFFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPgzTBbZFFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPgzTBbZFFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T16:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mu3p0XQhZre2XcOXTTsB8zfnGVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9vu9GjEYK5s"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-03T09:13:35Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "أحباط إخوانك مشاركة في المؤامرة!",
+        "description": "عضو مجلس الوزراء البريطاني الأسبق توني بن \"Tony Benn\" يتحدث عن طريقتين للتحكم بالناس: تخويفهم وإحباطهم! هذا ما يعمل عليه ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9vu9GjEYK5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9vu9GjEYK5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9vu9GjEYK5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-03T09:13:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G3lsLRAwoPiLaiRQamrpKbdJTf4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j-zRN7u6qkM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-01T11:24:59Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "كلمة في نصرة الأخت أسماء",
+        "description": "طلب من أخت ممرضة \"أسماء أبو جامع\" أن تتنازل عن الجلباب وتقتصر على ما هو \"محتشم\" بنظر المديرة فرفضت وحولت قضيتها من الانتصار ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j-zRN7u6qkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j-zRN7u6qkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-zRN7u6qkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-01T11:24:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ld9N-8zKUAr2pB_hphFZ77oFmds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PpsnDos32vk"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-22T17:04:17Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "ما بعد إقرار &quot;النواب&quot; لقانون الطفل",
+        "description": "الصفحة الشخصية على الفيس بوك https://www.facebook.com/EyadQunaibi ===== الحساب على التويتر ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PpsnDos32vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PpsnDos32vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PpsnDos32vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-22T17:04:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PlaWEXOUBlsA_kgQ5x13EM__4OM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUY989TE-cs"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-17T17:45:42Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "لا تملوا...إنهم أبناؤنا!",
+        "description": "\"أعلى مستوى صحي للطفل\" انظر إلى معناها! https://youtu.be/wiAzfokncjk \"المصلحة الفضلى للطفل\" انظر إلى معناها!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUY989TE-cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUY989TE-cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUY989TE-cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-17T17:45:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TOTPlN4ixxkXh-z8Cy80LTakwVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gpIMAxdsnYE"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-14T14:15:50Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "قبل أن تحل المصيبة !",
+        "description": "قانون الطفل، الذي يراد له ان يكون بوابة الفساد إلى بلادنا، أجريت تعديلات عليه وبدأ البعض يدعي أن هذه التعديلات حلت مشاكله!! ونحن في ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gpIMAxdsnYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gpIMAxdsnYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gpIMAxdsnYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-14T14:15:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KGHUohEjPqCObUOH_660rdug7GM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OWnUubgZtAM"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-12T08:03:18Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "عبارة واحدة تبطل التعديلات &quot;المطَمْئنة&quot; في قانون الطفل !",
+        "description": "\"المصلحة الفضلى للطفل دليل إرشادي للمشتغلين بالقانون\" من موقع ميزان: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OWnUubgZtAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OWnUubgZtAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OWnUubgZtAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-12T08:03:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zz50Q9DBVlp2LVjo1sSslFx4y8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EE8fdr8Jndg"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-08T17:06:01Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "بخصوص  نشيد &quot;يا إمام الرسل يا سندي&quot;",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EE8fdr8Jndg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EE8fdr8Jndg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EE8fdr8Jndg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-08T17:06:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5TQG90eGMket8ebAjRoQKlSef4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "loR_S7M2m7I"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-03T17:02:39Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "تحذير: الأمم المتحدة تحرض أبناء المسلمين على الهروب من منازلهم! #قانون_الطفل_مسموم #الاقرار_عار",
+        "description": "قانون_الطفل_مسموم #الاقرار_عار حتى تدرك أكثر ما يحاك لأبنائك:، تابع: 4. حقائق صادمة! التجارة باسم حقوق الطفل والمرأة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/loR_S7M2m7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/loR_S7M2m7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/loR_S7M2m7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-03T17:02:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J_sPf-xRqfHvXx0D7l8XamX1KKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q_Zq9oPjN8E"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-02T13:29:15Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "قانون الطفل مسموم - البث المباشر",
+        "description": "الاقرار_عار #قانون_الطفل_مسموم.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_Zq9oPjN8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_Zq9oPjN8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_Zq9oPjN8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-02T13:29:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QvbI-KWPWu3PpfpM4EdrAxraNjk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IwrmkOc42wM"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-29T14:34:45Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "قانون الطفل - إياد يرد على &quot;إياد&quot;",
+        "description": "00:00 مقدمة 00:15 اعتراض -- إيش ماله قانون الطفل؟ زعلانين عشان بيمنع ضرب الأولاد؟ يعني تريدون أن يضرب الآب المجرم ابنه إلى أن ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IwrmkOc42wM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IwrmkOc42wM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IwrmkOc42wM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-29T14:34:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S68uHD6ai9sK2SymkYmdRwlBHu8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3S8uOX3L_1M"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T15:12:29Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "6. الأمم المتحدة تحرض بناتكم على الهروب من البيت للعيش مع &quot;العشيقات&quot;!",
+        "description": "إذا تساءلتَ انت أو سألك سائل: ما هو قانون الطفل باختصار، فالإجابة في هذا المقطع أنقذوا أولادكم واعرفوا حقيقة قانون الطفل قبل فوات الاوان!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3S8uOX3L_1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3S8uOX3L_1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3S8uOX3L_1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T15:12:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1a5bm2lr7dlSEGBxmUs3DlbBIQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bLdyfdkTiJ4"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T16:00:39Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "4. حقائق صادمة! التجارة باسم حقوق الطفل والمرأة",
+        "description": "المراجع ستجدونها في التعليق الأول... فهرس الحلقة: 00:00 مقدمة 00:52 كيف يستفيد أصحاب المال من الحرب على الفطرة 01:33 15 محطة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bLdyfdkTiJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bLdyfdkTiJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bLdyfdkTiJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-19T16:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KdgYcmZ1OKCjq_27DZsCkh4P_YQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wzsSIRy4lPQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-15T07:24:05Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "بخصوص تعليم الفلسفة في المدارس",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wzsSIRy4lPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wzsSIRy4lPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wzsSIRy4lPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-15T07:24:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NjAw0H6sStgTV-rW5ntx33mtYhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZMSDZQyo47k"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-13T18:34:54Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "3. عندما يصبح مغتصب الأطفال مُشرعا لحقوقهم! - كيف قتل كِنزي الطفولة؟",
+        "description": "غرد، علق، انشر على هذا الوسم عن قانون الطفل في الاردن #قانون_الطفل_مسموم قائمة حلقات سلسلة الحرب على الفطرة - قانون الطفل ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZMSDZQyo47k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZMSDZQyo47k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZMSDZQyo47k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-13T18:34:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1zCJPQNEajnVkiMlhurILTtWX0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zA9p2HihqpA"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-07T19:07:49Z",
+        "channelId": "UCahYlNszeMy_PHffYvgAOHg",
+        "title": "5. الرد على المدافعين عن قانون الطفل",
+        "description": "انتشر مقطع تدافع فيه إحدى النيابيات السابقات عن قانون الطفل. فأحببنا أن نقف معه بعض الوقفات نشراً للوعي وتنبيهاً على الخطر ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zA9p2HihqpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zA9p2HihqpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zA9p2HihqpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور إياد قنيبي - القناة الرسمية",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-07T19:07:49Z"
+      }
+    }
+  ]
+}

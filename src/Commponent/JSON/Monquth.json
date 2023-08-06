@@ -1,0 +1,1713 @@
+{
+  "name":  "Saqqara",
+  "kind": "youtube#searchListResponse",
+  "etag": "nuRm6dN7F4hE8lLy9UvDjgnhJgU",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 736,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m2qHAYNugUKDTEPmo1MSWSKjwcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vMsbAeMN5Ds"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-29T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "الإمام النووي .. هل نعذره؟ أم نضلله؟ تعليق على حوار الشيخين الحسيني وشمس الدين #منقذ_السقار",
+        "description": "رابط كتابي الدعوة والداعية ، وهذا الموضوع أحد موضوعاته: http://saaid.org/Doat/mongiz/m12.pdf مرحبا بطالبي الحقيقة في قناتي، ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vMsbAeMN5Ds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vMsbAeMN5Ds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vMsbAeMN5Ds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-29T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xiwNJCdb9Ut6nuu23M6N1W6hg8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TeQb2iSQSa4"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-15T21:22:06Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "#ساعة_حوار 4  .. لقاء مفتوح لأسئلة وحوار المسلمين والنصارى .. مرحبا بالجميع",
+        "description": "من اراد المشاركة فليتفضل إلى الاستديو https://streamyard.com/piu4qfxbp9.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TeQb2iSQSa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TeQb2iSQSa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TeQb2iSQSa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-15T21:22:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "coAYv3PWEvqtqt95vOQTxuz9dWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1aRmt2yunXc"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-11T18:40:51Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "لماذا أخرج الله آدم من الجنة إذا كان قد عفا عنه   #الخطيئة_الأصلية_ووراثة_الذنب  #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1aRmt2yunXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1aRmt2yunXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1aRmt2yunXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-11T18:40:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OIFa3BatpAMQqpoVdfFEyCTCQKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uP5gwbYicX4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T20:54:46Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "#ساعة_حوار 3 مناقشة أدلة تأليه المسيح .. حوار مع شيعي يدعي النصرانية حول حديث من بدل دينه فاقتلوه",
+        "description": "حلقة جديدة من #ساعة_حوار.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uP5gwbYicX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uP5gwbYicX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uP5gwbYicX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T20:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vuHaYO32UXZXTKXrSffWPIiNeLY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "00SEIp-TgCg"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T18:00:10Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "سفر طوبيا .. نموذج الخرافة والتحريف #مدارس_السبت 88 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/00SEIp-TgCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/00SEIp-TgCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/00SEIp-TgCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T18:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ydM6H2ydnS5m2mInXIWuBYHoyvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DCBLKyYJ1fM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-27T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "إشعيا 53 تحت مطارق التحريف #مدارس_السبت 78 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DCBLKyYJ1fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DCBLKyYJ1fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DCBLKyYJ1fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-27T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "StX_8b2WvlQQJaC_VTcFXfD1KYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TdScK0mjBlE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-21T07:28:56Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "#ساعة_حوار 2  العهد الجديد وموضوعات أخرى",
+        "description": "حياكم الله جميعا وأهلا بكم للسؤال أو الحوار تفضل بدخول الاستديو https://streamyard.com/f2qmscbahv.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TdScK0mjBlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TdScK0mjBlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TdScK0mjBlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-21T07:28:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GrVMVgncqVTcNstCKoS-Q5pFfDk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b0hdDdDjPVM"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-06T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "وراثة اللعنة والعقوبة في العهد القديم #مدارس_السبت 86 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0hdDdDjPVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0hdDdDjPVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0hdDdDjPVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-06T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H2GKvGo9VBPex8QKKcjyxJdyr60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AF_T4gA__lw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "هابر وهاربر والفوضى المقدسة #مدارس_السبت 85 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AF_T4gA__lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AF_T4gA__lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AF_T4gA__lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oqz0RUa60IR1R8QVa0ReqyIv9MI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WqZN7M9PQYA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-08T20:00:10Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "سر هروب الدكتور #منقذ_السقار من مناظرة قناة الكرمة #مدارس_السبت 84",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WqZN7M9PQYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WqZN7M9PQYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WqZN7M9PQYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-08T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D8w3VxQblyuMKaLj9NjuhhhEjYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MevafIuAHHM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-01T20:00:09Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "دراسة نقدية لمناظرة الإرهاب بين الشيخ أبي عمر الباحث والقمص زكريا بطرس #مدارس السبت 83 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MevafIuAHHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MevafIuAHHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MevafIuAHHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-01T20:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GMzEbJEYE5aWa-ZdU219prciY0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WyzKtlBTdoQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-26T17:19:22Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "مسرحية الخليجي العابر نموذج من الخداع المقدس وفضيحة لقصص العابرين #منقذ_السقار #مدارس_السبت",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WyzKtlBTdoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WyzKtlBTdoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WyzKtlBTdoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-26T17:19:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CLcP1E73UTje3_xWKI7GsJoI5BU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jQDSiAPW3yU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-25T22:37:34Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "1 #ساعة_حوار عن العهد القديم",
+        "description": "مرحبا بجميع الضيوف والإخوة في ساعة الحوار .. حلقة الليلة عن العهد القديم.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jQDSiAPW3yU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jQDSiAPW3yU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jQDSiAPW3yU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-25T22:37:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yHGp6bKECYqEZzEI4yfFMvDfTpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RIZIw2LcrFc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-18T18:00:11Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "السلوك الحضاري في معاملة غير المسلمين في المجتمع المسلم / محاضرة في الجزائر 2023 #منقذ_السقار",
+        "description": "محاضرة الدكتور منقذ السقار في مؤتمر السلوك الإسلامي المقام في وهران بدعوة من المجلس الإسلامي الأعلى في الجزائر فبراير 2023 مرحبا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RIZIw2LcrFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RIZIw2LcrFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RIZIw2LcrFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-18T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kLm8Yt4DZfrrWMGNp_apo7deu1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kj9PEwzVOPM"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-16T10:52:37Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "زكريا بطرس .. انا موافق على ما تريده .. المهم ان تجري المناظرة .. فهل يقبل؟",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kj9PEwzVOPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kj9PEwzVOPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kj9PEwzVOPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-16T10:52:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AIiedPmKNcPiErL5Bw047MvPnyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v0bejNILYQY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-11T18:00:07Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "اقتراح جديد لإنقاذ المناظرة / الرعب المقدس .. التقطيع في الكتاب المقدس #مدارس_السبت 82 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v0bejNILYQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v0bejNILYQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v0bejNILYQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-11T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "URHqSDYiXsfzsNrmVp66TggWyO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kHe2y1Evrlk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-25T20:58:18Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "قصة أم قرفة أسطورة بلا إسناد #مدارس_السبت 81 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kHe2y1Evrlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kHe2y1Evrlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kHe2y1Evrlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-25T20:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CZIAnx63A6IPdSZLUJGGPRfidmQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qQeay88hhVQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-22T17:15:56Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "طلب متجدد للمناظرة المباشرة وتقديم حلول  للمشكلات التي يتذرع بها القمص زكريا بطرس فهل يبيض الديك؟",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qQeay88hhVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qQeay88hhVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qQeay88hhVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-22T17:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jnoQDyqlPeItFvl2WVKjRagdzeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p2cbhDzK8bY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-21T06:55:20Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "قلفة الإله وحليب أم الإله #مدارس_السبت #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p2cbhDzK8bY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p2cbhDzK8bY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2cbhDzK8bY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-21T06:55:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "88Jp2Klxr59sS7ys5Cs4_NiB0QQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jIy92ELIo-E"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-18T18:00:10Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "رسالة لزكريا بطرس أعدك ووعد الحر دين عليه .. لن أعلقك على صليب الحقيقة #مدارس_السبت 80 #منقذ_السقار",
+        "description": "محاولة جديدة .. لعل وعسى .. يبيض الديك .. اضغطوا عليه من فضلكم خدمة للحقيقة مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jIy92ELIo-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jIy92ELIo-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jIy92ELIo-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-18T18:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dNMx1QotDVHJRUkjNAD--ZDYKik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2g6OlyWBAPc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-16T07:26:02Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "شهادة عالم لاهوت بأن المسيح لم يعلن لاهوته  #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2g6OlyWBAPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2g6OlyWBAPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2g6OlyWBAPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-16T07:26:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VHe6qAHpP1DHhGzGtk1hI18Gg0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "303smoRZedg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-05T15:34:20Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "يا أجبن من عرفت وافق على المناظرة #منقذ_السقار #مدارس_السبت",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/303smoRZedg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/303smoRZedg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/303smoRZedg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-05T15:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kuG1o3LWZzJahYZ1ix8PoIvEd98",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hHACRaH3pRU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-04T18:00:07Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "استشاري الطب النفسي رشيد حمامي حلقة من قناة تفكيك الشبهات .. لا يفوتكم متابعة القناة في الرابط",
+        "description": "رابط قناة تفكيك الشبهات: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hHACRaH3pRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hHACRaH3pRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHACRaH3pRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-04T18:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VhFr2h_UrH3bWyshEJWOUh7BekA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x3wogru10B0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-02T11:28:51Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "تحدي زكريا بطرس سأنتظرك 15 سنة أخرى #مدارس_السبت #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x3wogru10B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x3wogru10B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x3wogru10B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-02T11:28:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WdWnVmwC1NbN1h5EN1wIv45Vfu8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0tbGBhufScM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:17:41Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "رضاع الاله ام رضاع الكبير #مدارس_السبت #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0tbGBhufScM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0tbGBhufScM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0tbGBhufScM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:17:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZyKKuGfIK4dSP-YwkM3bRXnDRqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fyu81msjIVY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "زكريا بطرس سأنتظرك 15 سنة أخرى / رضاع الكبير  .. حقائق وأكاذيب #مدارس_السبت 79 #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fyu81msjIVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fyu81msjIVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fyu81msjIVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t4itzF_FHk1wRl8iTaV8ZWZJFYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8ahtPf_GzQY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T15:00:43Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "ما دلالة أن الفريسي ينكر نبوة المسيح لا ألوهيته؟ #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ahtPf_GzQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ahtPf_GzQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ahtPf_GzQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T15:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q_sUOC21gJckGqgFaAHR6jgnefU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EST-3mn0EZs"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T18:00:09Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "قصة هرووووب بطولة القمص زكريا بطرس",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EST-3mn0EZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EST-3mn0EZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EST-3mn0EZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wpnOJbYfJX-mbMEIg0_9-mmfpJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wloyQxZPDVM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T18:57:44Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "(الشرير فدية للصديق) وليس العكس .. نبوءة لم يسمع بها رشيد #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wloyQxZPDVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wloyQxZPDVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wloyQxZPDVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T18:57:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E-2R0vGjTy1E1hLf451y7MdkgxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ng7iu9iwWQk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-14T18:00:09Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "قصتي الكاملة مع هروب القمص زكريا بطرس مع عرض صور المراسلات بيني وبينه قبل 16 سنة #منقذ_السقار",
+        "description": "تفاصيل وصور العرض الذي قدمته لزكريا بطرس في 11 يونيو 2007م ، وقد استلمه عن طريق المراسل بيننا (رشيد حمامي)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ng7iu9iwWQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ng7iu9iwWQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ng7iu9iwWQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-14T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gki7aWz0a_iXL4QT5xikE69lFvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XFoNUPHSqyU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T19:46:37Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "لماذا خص المسيح بلقب كلمة الله؟ #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XFoNUPHSqyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XFoNUPHSqyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XFoNUPHSqyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T19:46:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IkSlUKrTXFPB2zeaUb7greTUhAw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mg7T-NWkCeU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-11T16:00:22Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "زكريا بطرس يقبل التحدي للمناظرة هل يبيض ديكنا هذه المرة؟  #مدارس_السبت 78 #منقذ_السقار #المسيح",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mg7T-NWkCeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mg7T-NWkCeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mg7T-NWkCeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-11T16:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n5OrzY4OG51idLVSdbVRylSJDJ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vR5l5OFSr60"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-11T11:03:28Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "كيف يعاقب الله من عبد جسد المسيح المخلوق؟ #مدارس_السبت #منقذ_السقار #المسيح",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vR5l5OFSr60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vR5l5OFSr60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vR5l5OFSr60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-11T11:03:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vocrUr3ePu3rM4kGd1qWdjzAlts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "__43c1h2ZMU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-07T18:00:10Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "زكريا بطرس أنتظرك وقد جهزت سوط الحقيقة / عبادة جسد المسيح والبحث عن القلفة المقدسة #مدارس_السبت 78",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__43c1h2ZMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__43c1h2ZMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__43c1h2ZMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-07T18:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yNTnGGkspS8PR7tphETa7pe2_1E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8TrHYHee8f4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-02T16:26:48Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "اللوغوس استعارته المسيحية من الوثنيات #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8TrHYHee8f4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8TrHYHee8f4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8TrHYHee8f4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-02T16:26:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X9Ee4KTGaQ57qrnE7hSeI_wumRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VJnduEEoY5k"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T18:00:09Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "النبي صلى الله عليه وسلم في بيته / المرأة في الإسلام .. شبهات وردود  #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJnduEEoY5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJnduEEoY5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJnduEEoY5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gn9XDKxDIWgBuom7-_rCpZxDaeM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qh5yqAPCwBk"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-31T10:57:38Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "سخافة رشيد حمامي في كأس العالم #منقذ_السقار #مدارس_السبت",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qh5yqAPCwBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qh5yqAPCwBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qh5yqAPCwBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-31T10:57:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5QKK_4wsid_Tzp9rvW8GpGh3x-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BiIJfVsEaBo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T19:48:06Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "مباراة روسيا والسعودية وتحدي رشيد حمامي منذ اربع سنوات",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiIJfVsEaBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiIJfVsEaBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiIJfVsEaBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T19:48:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q0DPfLqtd9enLurxF9dQfl0CVwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fbIdSMW-K9I"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-24T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "25 ديسمبر عيد ميلاد من؟ الشمس أم المسيح؟ #منقذ_السقار #مدارس_السبت 77",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbIdSMW-K9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbIdSMW-K9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbIdSMW-K9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-24T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eKx_4BmPH37eowyVNZ7S86rjv5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-PQ8kkaN3Tg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-20T11:14:56Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "نبوءة سفر الحكمة / الله ينقذ ابنه البار /#منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-PQ8kkaN3Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-PQ8kkaN3Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PQ8kkaN3Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-20T11:14:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VsvBrvO-NT3AFa66sF6aEHEkUKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EAQ8Nm9fBRY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T18:00:10Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "سخافات رشيد حمامي في كأس العالم/ صدق الله وكذبوا.. إنهم يعبدون مريم #مدارس_السبت #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EAQ8Nm9fBRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EAQ8Nm9fBRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EAQ8Nm9fBRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-17T18:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zH6wDqjeZSWgJKwCzMuPF30ojWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dxcuRHXKLCw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-11T16:19:25Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "الاسم الأصلي ليسوع هو عيسى #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dxcuRHXKLCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dxcuRHXKLCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dxcuRHXKLCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-11T16:19:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ocmwup9WbhtgiIsFU-a3Q4dcxW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2MEJkHqx8Cw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-10T18:00:11Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "مقتطفات من مناظرة ألوهية المسيح مع القس رأفت مشرقي #مناظرات_فيينا #منقذ_السقار",
+        "description": "رابط مقتطفات من مناظرات فيينا 100 مقطع https://www.youtube.com/playlist?list=PLcZ8qZCIkYKJVSqGrNQmDGjIXQax2Qi3E رابط ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2MEJkHqx8Cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2MEJkHqx8Cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MEJkHqx8Cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-10T18:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0KQZ8ythbW5Y5NRVbYUvsTDCjgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bRfp_z5QvVE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T10:39:36Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "خرافات وثنية تسللت إلى المسيحية #منقذ_السقار #مناظرة_شخصية_المسيح",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bRfp_z5QvVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bRfp_z5QvVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bRfp_z5QvVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T10:39:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yK_PPdasfYJuiU-ecMR1YFXE3FM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hNW2ThE1vDo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T18:00:09Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "23 المعاملة مع غير المسلم في ديننا الحنيف #شبهات_حول_القرآن_الكريم #منقذ_السقار",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNW2ThE1vDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNW2ThE1vDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNW2ThE1vDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "krjQ6gqAFNehd8WvMjw4YCNU4tg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-RSrZG3s9vU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-26T18:00:08Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "عبادة مريم العذراء والثالوث المريمي #منقذ_السقار #مدارس_السبت 74",
+        "description": "لمتابعة حسابي على تويتر: https://twitter.com/MongizAlsaqqar ○▭▭▭▭▭○֎۞۩۞֎○▭▭▭▭▭○ مرحبا بطالبي الحقيقة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-RSrZG3s9vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-RSrZG3s9vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RSrZG3s9vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-26T18:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-7vpnDP-Kjalzjt4dw4vJ2yioiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5asbfMlsNXk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T13:05:01Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "كلمة الله أي المخلوق بكلمة الله/  رشيد لا يدري #منقذ_السقار #مناظرة_شخصية_المسيح #shorts",
+        "description": "رابط مناظرة شخصية المسيح https://www.youtube.com/watch?v=0iCrDZIwGwg مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5asbfMlsNXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5asbfMlsNXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5asbfMlsNXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T13:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nt4zoUcBBtdeqQffkTowi1CoWwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aYxetC90Ou4"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-20T06:38:19Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "رشيد حمامي .. لست أهلا للمناظرات اتحداك #منقذ_السقار #مناظرة_شخصية_المسيح #مدارس_السبت",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aYxetC90Ou4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aYxetC90Ou4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aYxetC90Ou4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-20T06:38:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zEOwjcxFoHtJPPflqIsNaw5v_ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VZ7CJDLhZD8"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-19T18:00:06Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "30 هل تناقض القرآن الكريم في أحداث يوم القيامة؟ #منقذ_السقار #شبهات_حول_القرآن",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZ7CJDLhZD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZ7CJDLhZD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZ7CJDLhZD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-19T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RQj6A_5RbZfwal7HVUUUWRq0Mzo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2fQr8zeRKl0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T09:49:13Z",
+        "channelId": "UCF9Hx3hIbZoTT0Sf7Cw1XZQ",
+        "title": "الكلاب والخنازيربحسب الإنجيل #منقذ_السقار #مناظرة_شخصية_المسيح #مدارس_السبت",
+        "description": "مرحبا بطالبي الحقيقة في قناتي، للحصول على كتبي إلكترونيا: http://www.saaid.net/Doat/mongiz/index.htm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fQr8zeRKl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fQr8zeRKl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fQr8zeRKl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "الدكتور منقذ السقار",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T09:49:13Z"
+      }
+    }
+  ]
+}

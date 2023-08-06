@@ -1,0 +1,35 @@
+/* Start Social Media */
+.social_icon {
+    position: fixed;
+    top: 30%;
+    left: 0px;
+    background-color: var(--mane-color-opacty);
+    padding: 0px 0 0 5px;
+    border-radius: 5px;
+    border-bottom: 3px solid #eee;
+    z-index: 100;
+}
+.social_icon .parent {
+    background-color: #333333bf;
+    border-radius: 5px;
+    border-top: 3px solid #eee;
+}
+.social_icon .box {
+    display: none;
+}
+.social_icon .parent:hover .box {
+    display: block;
+}
+.social_icon .parent i{
+    display: flex;
+    padding: 15px 20px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.social_icon .box i:hover {
+    background-color: var(--mane-color-opacty);
+    color: var(--mane-color-alt);
+    border-radius: 5px;
+}
+/* End Social Media */

@@ -1,0 +1,1713 @@
+{
+  "name": "TamerLabban",
+  "kind": "youtube#searchListResponse",
+  "etag": "IX7rdhylwYmsx_5eLjrk4kHWgT8",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 682,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Qx6YLYNyqpzmjGjEeE9yIXyOxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4tXkomjIVdo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-28T10:57:05Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "قسيس يصف المسلمات الجدد ( بالساقطات ) ويقول [ الاسلام ضعيف ] فاستحق الرد القاصم عليه",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== قس غير محترم ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4tXkomjIVdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4tXkomjIVdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4tXkomjIVdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-28T10:57:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y4RAKgAEwaHQCAcuRSbcYPTAhmo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uqXcoxKomCc"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-25T11:16:40Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "خدمة للدكتور عمر عبد الكافي : 15 حديث غير صحيح من حلقاته .فرصة له ليتراجع عنهم : شاهد قبل الحذف",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== حلقة متوقع لها ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uqXcoxKomCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uqXcoxKomCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uqXcoxKomCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-25T11:16:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "15ff1elJfUqiiupNa_tdRsjZqZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p40Uuy_Gcz0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T16:16:07Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "القسيس تمني لو لم يكن سأل السؤال من البداية  اصلا :)",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== نقدع الاجازة لهذا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p40Uuy_Gcz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p40Uuy_Gcz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p40Uuy_Gcz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T16:16:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wdupwR73DdVnJm-YPs-uSVPhWJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d1pYEG7Gde4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T16:48:35Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "ردها على ان استطعت يا عيسي الفاروق",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== عيسي الفاروق ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d1pYEG7Gde4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d1pYEG7Gde4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d1pYEG7Gde4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T16:48:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u97lJq_7Xlp3Ts2k811D5bdF8Fo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZdawoqGkQ6I"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-16T13:00:28Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "حقيقة الصراع بين بني هاشم وبني امية",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== الفيديو ليس ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZdawoqGkQ6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZdawoqGkQ6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZdawoqGkQ6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-16T13:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y8nHtNMCk0lVos2TsJoCpexfFAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NnSxzWuxB5M"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-15T20:04:27Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "التحذير من الاحاديث الموضوعة التي يوردها د عمر عبد الكافي",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== د عمر عبد الكافي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NnSxzWuxB5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NnSxzWuxB5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NnSxzWuxB5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-15T20:04:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "19eDIPnuQvZ2GHI7KkfW8266MY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fCktxDTSCOw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-07T15:26:43Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "يسري جبر الراقصة ببدلة رقصها اشرف من ابن باز وابن عثيمين",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== يسري جبر ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCktxDTSCOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCktxDTSCOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCktxDTSCOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-07T15:26:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ALNeOVyCUEvJjaHiQoxf2wSClcw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nvsNiaPyu2Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-06T19:46:50Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "تأديب سلامة عبد القوي ( بلية )لتطاوله على الشيخ مصطفي العدوي",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== سلامة عبد القوي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nvsNiaPyu2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nvsNiaPyu2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvsNiaPyu2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-06T19:46:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u3Snqe4qyZb5JW0Qw1pT3z8dzTs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wx9XgRtcmVA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T13:48:15Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "رسالة مهمة للاخ الداعية شمسي وفقه الله",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wx9XgRtcmVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wx9XgRtcmVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wx9XgRtcmVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T13:48:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ppt_0TXanuksF9CTth87dUuZIb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XfIz82gYsi8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-29T15:12:46Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "حلقة صادمة (سر ضعف الاباضية الرهيب فى علم الحديث)",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XfIz82gYsi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XfIz82gYsi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XfIz82gYsi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-29T15:12:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "30h0yayiyjLLT1TyQc_q-7Cx5Ko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0rN9JGvxL3o"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-21T16:23:52Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "كشف خطة زكريا بطرس للتخلص من جموع المسلمين",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== لدعم القناة على ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0rN9JGvxL3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0rN9JGvxL3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0rN9JGvxL3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-21T16:23:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "20xYINhCebedIYM4wU8AMEGYkEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V6a_5CBObBY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-17T14:20:38Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "سبع معتقدات غريبة وصادمة يؤمن بها الاباضية خصوصا الاعتقاد الثالث",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== الجزء الثاني من ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V6a_5CBObBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V6a_5CBObBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6a_5CBObBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-17T14:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "StoDRFL294L1Fhvjq92IzC7HVKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1L2RJ910Fkg"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-11T05:13:57Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "الاباضية 2",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1L2RJ910Fkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1L2RJ910Fkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1L2RJ910Fkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-11T05:13:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_2q2eA71S7vxCFzSDgXN4r9-QgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GPp2RF0EZFc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-07T15:13:04Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "لماذا الإساءة بعد سنة ونصف يا شيخ سلامة ؟",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GPp2RF0EZFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GPp2RF0EZFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GPp2RF0EZFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-07T15:13:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N11wHawpKtXYWmqq2lfDLs-osnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vKCkTHWk47s"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-30T14:26:29Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "مهزلة حقيقية: قالوا حلقة مدمرة ستنسف الاسلام نسف فتحولت لمسخرة وضحك .",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== انا زهقت حقا من ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vKCkTHWk47s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vKCkTHWk47s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vKCkTHWk47s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-30T14:26:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yz9SBDsZZAfysXFM5FtGy38eEI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lb0t61lXUoo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T04:57:45Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "يشمتون فى وفاة الشيخ عبد الله كامل رحمه الله .فنالوا ما يستحقون وزيادة",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== الفيديو يكاد ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lb0t61lXUoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lb0t61lXUoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lb0t61lXUoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T04:57:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G-2781XxkV9gdBdG6to-4NiQ2Y4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZRmDXYfdNfU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-27T04:04:00Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "هل إرتد الدكتور احمد كريمة ؟؟؟",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== روابط تحميل ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZRmDXYfdNfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZRmDXYfdNfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZRmDXYfdNfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-27T04:04:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j5ndd1bzB15rlcKBZj5HTpE0x0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IhdSDnktJrw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-15T14:54:16Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "مفتي عمان يدفع 5 مليون ريال عماني ويحذف  هذا المقطع",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== مفتي عمان تبع ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IhdSDnktJrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IhdSDnktJrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IhdSDnktJrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-15T14:54:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qa-jPYUjYz5oFBUqNc9StaZgjmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QPb04s9R9JU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-06T18:21:53Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "اعطوني منع نشر للحلقة فى كل العالم ضحكتعليهم وعدلت الفيديو ونشرته مرة اخري",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QPb04s9R9JU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QPb04s9R9JU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QPb04s9R9JU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-06T18:21:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t3ng5imwE500L_Uh4gkmyz2tnS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y4W37LyKnbI"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-28T01:39:46Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "الرد على حلقة زكريا بطرس هل نبي الاسلام اسمه (قثم ) كوميديا ولا مسرح مصر..تم سحق القمص بنجاح",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== القمص زكريا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y4W37LyKnbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y4W37LyKnbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y4W37LyKnbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-28T01:39:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i54u33JT_zn12qNlcSyagtrulyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k0OP1WL0NzQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-15T10:30:02Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "عندما اخطأ الشعراوي",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k0OP1WL0NzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k0OP1WL0NzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0OP1WL0NzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-15T10:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AwfCscn9keNfSMrM5PEaGJpdrlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9jVU6htaHzc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T09:54:07Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "بل هل ذاكر نايك ملحد ؟هل الشيخ الفوذان ساذج ؟",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== السر وراء هجوم ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9jVU6htaHzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9jVU6htaHzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9jVU6htaHzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T09:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f1aVKRAbFztIMkQ4VHgT-XfIa74",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KfKTkxOa0bc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-22T10:40:43Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "القمص ارميا بولس : مريم تزوجت يوسف النجار وانجبت يسوع",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== الموضوع محرج فى ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfKTkxOa0bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfKTkxOa0bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfKTkxOa0bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-22T10:40:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QYKJ02Kq-viEmNxMKUiEWoAR3SA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1ySoiE50od4"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T19:19:42Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "القمص زعلان من الفراعنة عشان لا يعبدون الخروف الذي يعبده هو",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== القمص ارميا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ySoiE50od4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ySoiE50od4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ySoiE50od4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T19:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uh8xvWIxlBmxqqKs9w56tWCYEMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "58RC9q_1Q7c"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-09T17:53:52Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "ما هو حال الدكتور هيثم طلعت ؟",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== سرطان يارب ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58RC9q_1Q7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58RC9q_1Q7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58RC9q_1Q7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-09T17:53:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0wuPanZOc7lp4Jgl0G4W3RPjsKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vy8Nn-Hv_0A"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-06T08:53:01Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "ربيع المدخلي علامة لكن معاوية بن ابي سفيان ليس بعالم .... غرائب المداخلة",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== حلقة مخزية لمنهج ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vy8Nn-Hv_0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vy8Nn-Hv_0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vy8Nn-Hv_0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-06T08:53:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ky_8AwJpDNHHQJE9kgfJ8KIXrgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6PODj0h68Yw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-01T21:10:14Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "صلاح أبو عرفة :الكذاب الاحمق",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== ارخم حلقة عملتها ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PODj0h68Yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PODj0h68Yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PODj0h68Yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-01T21:10:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yt1ELvMJQyw_awmrETmj_j0SlqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CQ0KZQ7oDVc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-25T16:24:49Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "ماذا فعل رسلان والحويني عندما رن تليفون اثناء درس لهما ؟",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== اعتذر عن بعض ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQ0KZQ7oDVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQ0KZQ7oDVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQ0KZQ7oDVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-25T16:24:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fdAx0f4uj77eB3ZKwSG7i2sgR80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-sLxTFEdZK8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-03T10:06:50Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "أعجوبة نقل جبل المقطم",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-sLxTFEdZK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-sLxTFEdZK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-sLxTFEdZK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-03T10:06:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "21Hbh52fzwihgoBGnA8Zm9DuC_Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z0Hzs9pinKc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-29T08:25:03Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "المداخلة يصنعون المستحيل جمعوا بين الارجاء والتكفير",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z0Hzs9pinKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z0Hzs9pinKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0Hzs9pinKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-29T08:25:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q0VS8u8tLRzwX4tP12PE0y18sXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hlARRIYFyvc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-23T06:09:58Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "هل انكرت ناسا انشقاق القمر كما يقول الملحد  Sherif Gaberشريف جابر ؟ Sherif Gaber",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== المصادر معجزة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hlARRIYFyvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hlARRIYFyvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hlARRIYFyvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-23T06:09:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dCSVEyPOWLJafvo9uFM11g-Gwhw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B1Yu0Lw932c"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T12:50:01Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "الفوزان والحويني والربا",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== الفوزان يقول كلام ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B1Yu0Lw932c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B1Yu0Lw932c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B1Yu0Lw932c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T12:50:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4jlchC8DicSbmh3KfRPfM5k-zk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ulcJ85RuSyU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-08T09:52:11Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "لماذا أخطأ المداخلة فى تكفير د ذاكر نايك والداعية محمد حجاب",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ulcJ85RuSyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ulcJ85RuSyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ulcJ85RuSyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-08T09:52:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-6DHhwUc9RntTvXUKc-jXcDrN5o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OAK_n_q-EFo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-05T20:55:46Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "ليس اخطر ما قاله عثمان الخميس بل اخطر ما قاله مزمل فقيري",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== فيديو الاخ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OAK_n_q-EFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OAK_n_q-EFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OAK_n_q-EFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-05T20:55:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "naczC9udWA3OBFrphJ1J2jnoG4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gU6mf_rEbE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T07:00:00Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "قصة القاضي مع الفرارجي :  قصة قصيرة معبرة",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== مقطع قصير لا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gU6mf_rEbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gU6mf_rEbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gU6mf_rEbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ECxR2izOxzxaFfp-459TlY0pydY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uWmQjtKrTfw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T15:27:38Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "السر وراء وصف محمد الباز لقراءة القرءان فى افتتاح كأس العالم بالجريمة ... لن تصق",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== محمد الباز يستاء ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uWmQjtKrTfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uWmQjtKrTfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uWmQjtKrTfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T15:27:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IgWWyq4zviT3dDtKLc3g4AX7jlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0mYEiDZ7ga4"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-24T13:31:03Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "فساد منهج المداخلة ينهون عن الخروج ثم يفعلون افعال الخوارج",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== قطعا لا احكم ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mYEiDZ7ga4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mYEiDZ7ga4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mYEiDZ7ga4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-24T13:31:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tAfc5SQM1VTaP1y8CJX-hDcXVl4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DgBeopf017k"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T05:03:22Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "كبير الاثريين : لابد من منع الاذان لانه يزعج السياح ورد قوي وقاسي عليه.العب بعيد يا فاشل",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== عندما ينتشر ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DgBeopf017k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DgBeopf017k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DgBeopf017k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T05:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OxlHfu0DZcvRF8WB7-YsLdjnomM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o-S4vmHkaiU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-12T18:19:41Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "مفاجأة صادمة للمداخلة : ربيع المدخلى يعلن انضمامه لجماعة الاخوان ويمدح سيد قطب بشكل مبالغ جدا",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== سبحاااااااان الله ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o-S4vmHkaiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o-S4vmHkaiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o-S4vmHkaiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-12T18:19:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pp1MQsIYb85LLY_HTtAaIDUGPFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xEgY_C-BxLM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-08T03:57:31Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "الشيخ رسلان ومجنون ليلي",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== كوارث للشيخ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xEgY_C-BxLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xEgY_C-BxLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xEgY_C-BxLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-08T03:57:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Rt7qSbiji790Ze3GYsvRvP4yo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ub2KUlu4TAw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-24T16:00:49Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "بعد القراءة بالمقامات الان القراءة للقرءان بالموسيقي والطبل والزمر",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== الحلقة تناقش عدم ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ub2KUlu4TAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ub2KUlu4TAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ub2KUlu4TAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-24T16:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x3BOi8S_rycuNxaJeAbthtmQjqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NWjNLwBrjdU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-15T14:53:06Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "اعتراضات مدخلية على حلقة كذااب السودان مزمل فقيري والاعتراض الثاني صحيح",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NWjNLwBrjdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NWjNLwBrjdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWjNLwBrjdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-15T14:53:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lXyvSKEgaFETKPnShrjGJbQW0_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fdRxoC3R4_Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-09T14:05:34Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": ") الرد على كذااااب السودان(مزمل فقيري",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdRxoC3R4_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdRxoC3R4_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdRxoC3R4_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-09T14:05:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x04_KJ5WwnQThyz1B2aM0VYAHbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kCtX073U6I4"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T15:09:13Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "دبدوب رسلان هو من يحمل وزر ما قيل فى هذا الفيديو",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا تناقض الحويني والقرضاوي ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kCtX073U6I4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kCtX073U6I4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCtX073U6I4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T15:09:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pWfKTrhv9hhKk9ReiczBmqFZct4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_nzd5jx0eT0"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-02T16:17:23Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "جزء من الاعداد لحلقة عن القرءان الكريم",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== قناة الدكتور محمد ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_nzd5jx0eT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_nzd5jx0eT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_nzd5jx0eT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-02T16:17:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "36b2jnVlMqgM7L_-USVtsI0nq_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ix7h_saq26k"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-24T13:37:17Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "توضيح",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== توضيح فقط ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ix7h_saq26k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ix7h_saq26k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ix7h_saq26k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-24T13:37:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8QfpqdP-icfVtWdFwxkCY_36XZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gvo5tS8gO8k"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-23T11:32:50Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "هل الشيخ سعيد الكملي يحرف منهج السلف؟ وهل هو اشعري العقيدة ؟",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== حاول المداخلة ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gvo5tS8gO8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gvo5tS8gO8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gvo5tS8gO8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-23T11:32:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y5CBTZkwbxUE-t915HZb0l69Pqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nellae9J6VI"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-16T11:00:11Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "بحيري ورشدي",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== علىماذا لام ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nellae9J6VI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nellae9J6VI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nellae9J6VI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-16T11:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "beicDJ2fj6Ps7UUc76phHsnnaMU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Pzs2CaFzXc"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-01T08:02:35Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "عقم منهج المداخلة",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== لا تعاملهوم على ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Pzs2CaFzXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Pzs2CaFzXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Pzs2CaFzXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-01T08:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NlDjTj64d2l2nTnspQ2NZ7GrfX4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ABoi_Q1S3d8"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-30T13:49:02Z",
+        "channelId": "UCAf1zPAKZPhZWcJSJ11p-rw",
+        "title": "فضيحة كذب اتهام عبد الله رشدي باغتصاب سيدة عراقية",
+        "description": "لا تنسوا الاشتراك بالقناة والتفاعل ونشر الرابط فهذا يفيد القناة جدا ==================================== تطالب بالزواج ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABoi_Q1S3d8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABoi_Q1S3d8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABoi_Q1S3d8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "تامر اللبان",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-30T13:49:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.info {
+    padding: 20px 20px 0 0;
+    min-height: 550px;
+    width: 175px;
+}
+.info .box .informationBox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 0;
+    padding: 7px;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.info .informationBox:hover{
+    background-color: var(--mane-color);
+}
+.info .box img,
+.infromition-show .data img {
+    width: 40px;
+    border-radius: 5px;
+}
+.info .box label,
+.infromition-show .data a {
+    color: var(--mane-color-alt);
+    cursor: pointer;
+}
+
+.active {
+    background-color: blue;
+}

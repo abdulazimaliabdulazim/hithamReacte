@@ -1,0 +1,1713 @@
+{
+  "name": "MahmoudDaoud",
+  "kind": "youtube#searchListResponse",
+  "etag": "DQUk_WOvHqFUnSJNjug1z7ThBLM",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 201,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5T-a6gTuLRQOLkQ2_Ho7N1RGuu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dhww5QMqOAQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-29T16:01:16Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مسيحية تصرخ: الكهنة ذئاب ومرضى نفسيين وبيتكلموا في شرف البنات وأفسدوا كل شئ 😱😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dhww5QMqOAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dhww5QMqOAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dhww5QMqOAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-29T16:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EfMzqYT853f5GB8iKPjDLK2Nci8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "40xRY_alwkA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-27T18:20:50Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "شاب مسلم يدافع عن المسيحيات و المسلمات بعدما وصفهم كاهن بالسـ.ـاقطات ! 😱😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40xRY_alwkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40xRY_alwkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40xRY_alwkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-27T18:20:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ICMvZQn6sZlDadt7XGwYjBViU6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mW4t99dnG8I"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-26T00:51:54Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "حوار حول عقيدة الإمام النووي رحمه الله، بين &quot; الأخ محمد بن شمس الدين &quot; و &quot; الأخ حسن الحسيني &quot;.",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mW4t99dnG8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mW4t99dnG8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mW4t99dnG8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-26T00:51:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XZRPBgJW7EbiPc2u-iDfaREvyzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bM3Dii1ZmAM"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-23T12:59:12Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مكالمة د.سالي نسيم تنطق الشهادتين أمام ( الأنبا سيداروس) بعدما طـ،ـعن في شرفها .. الله أكبر 😂💪",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bM3Dii1ZmAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bM3Dii1ZmAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bM3Dii1ZmAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-23T12:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pBBl93WnApCsuRdndA6FM0-EXOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BOUPrsar2MA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-17T19:12:26Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "بالفيديو: هل اعتنق محمد أبو تريكة المسيحية؟ مفاجأة محزنة 😱😓",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOUPrsar2MA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOUPrsar2MA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOUPrsar2MA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-17T19:12:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l0G3skmEBQWEzWIonNivXUkMvzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "otyMznte9Ow"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-16T18:58:35Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "نبيل شرف الدين: أنا مسلم ولم اعتنق المسيحية 😂 صفعة قوية .. معلش 😔",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/otyMznte9Ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/otyMznte9Ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/otyMznte9Ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-16T18:58:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0AkVwy3D3406Lx4ARusvzUPlpbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uDig4rCd15Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-14T12:29:26Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "أول رد من البابا تواضروس على &quot; محمود داود &amp; معاذ عليان &quot; شاهد ماذا قال ! 😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uDig4rCd15Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uDig4rCd15Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDig4rCd15Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-14T12:29:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Po8b2aX_HmpdW2D710oZ0ho5Z68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5NkE1lgkddo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-12T19:09:41Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "أول صورة للدكتورة سالي نسيم بالحجاب ورافعة علامة التوحيد 👆😍",
+        "description": "يمكنك دعم القناة بطريقتين، \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق موقع باتريون من هنا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NkE1lgkddo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NkE1lgkddo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NkE1lgkddo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-12T19:09:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y6O-vNchTqdb5bvFFF0kjDOPEdI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8pYuo7YRZ6M"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-09T14:29:59Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "والد &quot;سالي نسيم&quot; يصـ.ـفع المحامي المسيحي &quot;أمير نصيف&quot; ولغى له التوكيل 😂",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8pYuo7YRZ6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8pYuo7YRZ6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8pYuo7YRZ6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-09T14:29:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YMbMzk9PEYN8uW8LSGFn7oCaAQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k37tc7fMFjk"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-05T17:05:22Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "والد سالي نسيم يعترف: بنتي مش مخـ.طوفة. أسلمت وقابلتها وهي محجبة 😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k37tc7fMFjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k37tc7fMFjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k37tc7fMFjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-05T17:05:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iu_3Yb9Uy208LXwoti7tatgpVI8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nbOdorR4XKs"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-04T17:59:21Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "على قناة الكنيسة: مكالمةأخت (سالي نسيم) تؤكد إشهار إسلامها وانها ليست مخـطوفة",
+        "description": "يمكنك دعم القناة بطريقتين، \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق موقع باتريون من هنا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbOdorR4XKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbOdorR4XKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbOdorR4XKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-04T17:59:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H1pSKXi0lzji1fwPNe4n2YunqwM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N_sQ0zXga-w"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T16:45:44Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "حقائق و مفاجأت جديدة في اعتناق دكتورة مسيحية للإسلام (سالي نسيم ) 😳😳",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N_sQ0zXga-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N_sQ0zXga-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_sQ0zXga-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T16:45:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ejJ_yxW7NBjCSx0m5p2VA4oNEnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GKDbnaJfwSY"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-02T16:42:00Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "بعد الحذف: دكتورة مسيحية تعتنق الإسلام (سالي نسيم ) هل هي مخـ.طوفة ؟! 😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GKDbnaJfwSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GKDbnaJfwSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GKDbnaJfwSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-02T16:42:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Ir1VPRtC3igxnXHV4VvF8o5AEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GMyGfy6aotA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-20T19:47:31Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مستشار مسلم يتولى الدفاع عن #أبانوب_عماد شـ.ـاتم الرسول! تعرف على حقيقته 😣😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GMyGfy6aotA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GMyGfy6aotA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GMyGfy6aotA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-20T19:47:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c3TudD1FCj5w15xPh_-A3s4R2dM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G9YrCvbFcDU"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-17T20:05:19Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "هل البابا تواضروس يزدري الإسلام ؟! شاهد بنفسك",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9YrCvbFcDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9YrCvbFcDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9YrCvbFcDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-17T20:05:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CF-n__qpgqAw2dSEFaq1-UFO7w8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qPQ7J_OjXME"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T18:04:29Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "شاب مسيحي صـ.ـدم فرنسا بإسم المسيح يسوع في واقعة مفجعة ! 😱😳",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qPQ7J_OjXME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qPQ7J_OjXME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qPQ7J_OjXME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T18:04:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1K4Nu1Lkjya2GUkmyID35vWhiAk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x2dzQGsLJTo"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-08T18:00:20Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مفاجأة: الكنيسة المصرية تؤيد حظر الكتاب المقدس في مدارس أمريكا 😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x2dzQGsLJTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x2dzQGsLJTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x2dzQGsLJTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-08T18:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Mz46EScBDmaIdhqFUhMO_M3WSE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BrCiwS1A8W0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-02T18:00:38Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "الانبا رافائيل يصدم المسيحيين: الله ذاق الموت ونحن نبشر بموته 😳😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BrCiwS1A8W0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BrCiwS1A8W0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BrCiwS1A8W0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-02T18:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7gFnz1gcnZ20gLAOhCbF1uR6ZvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fKC_af5jRLY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-30T17:00:21Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "الأنبا رافائيل: عقيدة الثالوث متاهة، ويؤكد قول فولتير: دي أمراض عقلية !",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKC_af5jRLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKC_af5jRLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKC_af5jRLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-30T17:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "--kGknYo4l1PavxKLjJDv4GsAqo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9UaD6qH7fvo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-28T16:30:21Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "حصريًا: القس الروسي &quot; فلاديمير أوجريوموف &quot;يعتنق الإسلام ويؤكد:التوحيد قادني إلى الإسلام !",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UaD6qH7fvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UaD6qH7fvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UaD6qH7fvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-28T16:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X2tmIW_gYMU2iWCwSxvu71X8ZwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5xk6UFV3-pI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-16T18:36:30Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "قصة شمشمون الجبار وخطأ الأيام السبعة في الكتاب المقدس 😳😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5xk6UFV3-pI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5xk6UFV3-pI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5xk6UFV3-pI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-16T18:36:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2LiyyBaWYjC9xjXOlkFaKUyLNZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j8S5_ANlJdQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T18:25:07Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "اكتشف أكذوبة النور المقدس عام 2020 من قناة مسيحية 😱😰",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j8S5_ANlJdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j8S5_ANlJdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j8S5_ANlJdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T18:25:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sK-NGZllSWDEL4VydZBlASZYlvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gwYi0AHs20M"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-11T19:23:42Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "&quot;مارينا سمير وليم&quot; تشهر إسلامها بالأزهر وتؤكد: أنا مش مخـ.,ـطوفة",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gwYi0AHs20M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gwYi0AHs20M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gwYi0AHs20M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-11T19:23:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EFXJWXkDIbXLi38BwMg8lcQqwa8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cb0y2gTxngI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-07T18:02:39Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "هل النور المقدس لا يحرق لمدة 33 دقيقة؟ شاهد الصدمة 😳😱",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cb0y2gTxngI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cb0y2gTxngI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cb0y2gTxngI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-07T18:02:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_RFw-rB32Y1sIMvsrN3VVVAcn7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xjgdc1yRQGI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T17:18:17Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "صدمة المسيحيين بعدما عملت النور المقدس في البيت 😳🙄",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjgdc1yRQGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjgdc1yRQGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjgdc1yRQGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-04T17:18:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y94QQiFugpux3MJhF480C_ZMoXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UHyYsNezkbE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T17:40:30Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "بالفيديو من داخل القبر المقدس..آباء الكنيسة يعترفون: النور المقدس خرافة",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UHyYsNezkbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UHyYsNezkbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UHyYsNezkbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T17:40:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tln0gsKe-ukGvwjCFxZR5k9_oaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QdbZ33I0BN8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-23T17:40:52Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "لو عايز الرد على العقائد المسيحية . شوف الفيديو ده 💪 محمود داود &amp; معاذ عليان",
+        "description": "يمكنك دعم القناة بطريقتين، \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق موقع باتريون من هنا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdbZ33I0BN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdbZ33I0BN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdbZ33I0BN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-23T17:40:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nCJ4gHRb4IoXNkJxPaK0t_5Nfxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PXM0ha9hYHU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-14T18:51:25Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "زكريا بطرس يتحول لقطة على الهواء ليتهرب من المناظرة ! 😱😳",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXM0ha9hYHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXM0ha9hYHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXM0ha9hYHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-14T18:51:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "84Y2Z-bt09TkZ7MkYDQaCYuboE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xv2PbCIYn6Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T18:05:08Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مسيحي ينزع الصليب من يده بعدما ترك المسيحية واعتنق الإسلام :)",
+        "description": "يمكنك دعم القناة بطريقتين، \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق موقع باتريون من هنا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xv2PbCIYn6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xv2PbCIYn6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xv2PbCIYn6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T18:05:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JcM_wwhwsvDoovCpSkJUoUbVWpA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLA8J9o59Twi9NyJGSOrfsJjNPJvN0_2uW"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T05:40:22Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "زكريا بطرس . الرد عليه و هروبه !",
+        "description": "زكريا بطرس . الرد عليه و هروبه !",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yCUUg98I91g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yCUUg98I91g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yCUUg98I91g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T05:40:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K0l3bacv7-9S0oERix5YLibmk5U",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLA8J9o59Twi89kmX8ItTuV2Y4L4ryH16E"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T05:32:53Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "سن أخزيا !!",
+        "description": "هذه القائمة خاصة بمعضلة سن أخزيا بن يهورام في الكتاب المقدس، هذه المشكلة التي لم ولن يجدوا لها حلاً !",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rw0vCzhelPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rw0vCzhelPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rw0vCzhelPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T05:32:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QhhSWN8XEyjVhrC8rCrYPMrlw2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uacPtLwVKZs"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-02T22:25:07Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مسلمون يصلون مثل المسيح عند الكعبة !! شاهد بنفسك",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uacPtLwVKZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uacPtLwVKZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uacPtLwVKZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-02T22:25:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "laXgZE8Hxn571eGGK8YiY-JhIVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bnuxaC8JLwQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T19:05:17Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "بالفيديو: &quot; مريانة مقبل&quot; تعتنق الإسلام : &quot; أنا مش مخطـ.ـوفة، سيبوني أعيش &quot;",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bnuxaC8JLwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bnuxaC8JLwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bnuxaC8JLwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T19:05:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1Z0XH75ZKJ7o9S7AEr4NCWRh0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pp-piitkZa0"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-19T17:59:15Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "زكريا بطرس يعترف بهزيمته من&quot;محمود داود&quot; ويعترف بتحريف الكتاب المقدس !!!",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pp-piitkZa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pp-piitkZa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pp-piitkZa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-19T17:59:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YMEWWU8CDDHP3yiQduJAl-UHSKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "54qaVXw67LQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-15T00:51:10Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "حوار مباشر بين &quot; محمود داود &quot; و &quot; مسيحي مصري &quot; بين الإسلام و المسيحية",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/54qaVXw67LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/54qaVXw67LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/54qaVXw67LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-15T00:51:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vn2_sK3-s43vbPV2xrwiCsuFB9A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WN2Xqs1Kazk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-08T23:38:40Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "حوار مباشر بين &quot; مسلم &quot; و &quot; مسيحي &quot; .. أين الحق بين التوحيد والتثليث ؟!",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WN2Xqs1Kazk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WN2Xqs1Kazk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WN2Xqs1Kazk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-08T23:38:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E6mXxCJaJcVY1-q4-ic-gba_GWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g92nsAmh1eY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-01T18:01:54Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "هل اسم الرسول الحقيقي &quot; قُثَم &quot; ؟! ردًا على زكريا بطرس .. مفاجأت بالجملة",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g92nsAmh1eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g92nsAmh1eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g92nsAmh1eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-01T18:01:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QcaGYEWTIm6etHpORz9XNRv8qmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X67xkExXuZk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-28T16:10:07Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "فيديو مسرب من داخل الكنيسة: ماذا يقولون عن السيدة مريم والمسيح؟ لن تصدق 😱",
+        "description": "يمكنك دعم القناة بطريقتين، \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق موقع باتريون من هنا ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X67xkExXuZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X67xkExXuZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X67xkExXuZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-28T16:10:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pl40xe4CyMRCgxOXYXmY7-PKC1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gTpszNHJNcA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-27T18:38:46Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "قسيس بيقول: عشان خاطر أمك يارب إنقذ  أمك يارب.. تعرف على السبب !",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gTpszNHJNcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gTpszNHJNcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gTpszNHJNcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-27T18:38:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "peHZ5YYjMH7TsEk2RBPJClkecRM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iEQmAV6ESZg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-24T18:05:22Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "امرأة مسيحية تشتـ.ـم شاب مسلم . فجاءها رد مفاجئ !",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEQmAV6ESZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEQmAV6ESZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEQmAV6ESZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-24T18:05:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o7Zj1ob0Tk9d6_khXY4VHxQXK0M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "APDDaQepDu8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T17:34:12Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "لن تصدق ! البابا تواضروس يتهم الإنجيل بالتحريف !!",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/APDDaQepDu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/APDDaQepDu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/APDDaQepDu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T17:34:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "trrn2javxNaGf-niGruZZ_XKFsc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ev6_XuUXhjg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-21T18:01:01Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "قصتي مع زكريا بطرس .. لماذا يأست من مناظرته ؟! القصة كاملة",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ev6_XuUXhjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ev6_XuUXhjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ev6_XuUXhjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-21T18:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-q6wwIgvdCYiD-NANFqme4wdgzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8nsP6PU7Sgg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-19T18:54:04Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مسيحي يجاوب على تناقض عجيب في كتابه في حضور زكريا بطرس.. شاهد ماذا حدث !",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8nsP6PU7Sgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8nsP6PU7Sgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8nsP6PU7Sgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-19T18:54:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BRPT76SdQqEZ8k732EBBONK5gPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BLAugR1h4QQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-18T18:00:09Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "&quot;د.منقذ السقار&quot; يعرض أكاذيب &quot; زكريا بطرس &quot; فهل يقبل المناظرة . أم يستمر في الهروب؟! 😂",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BLAugR1h4QQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BLAugR1h4QQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BLAugR1h4QQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-18T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bUQYnKrN1dmy30ECq9y1dVF68OQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XaHbFPosdEY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-14T17:45:59Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "زكريا بطرس يوضح سبب هروبه من مناظرة محمود داود و شيوخ المسلمين .. مفاجأة !",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XaHbFPosdEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XaHbFPosdEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaHbFPosdEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-14T17:45:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V6jCKMrhWmWh-ZqN8D52l7yXOcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jzz4vIhR7jw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-12T17:31:38Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مواجهة مباشرة بين &quot; محمود داود &quot; و &quot;زكريا بطرس &quot; في قناته وتحديه في مناظرة.",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jzz4vIhR7jw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jzz4vIhR7jw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jzz4vIhR7jw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-12T17:31:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YOSZ1Bizaeb26jmxOxsdQpFcZRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jQpmtnD8MJE"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-08T16:44:04Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "السؤال الذي أفحم &quot; زكريا بطرس &quot; وتهرب منه ! تعرف عليه :)",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jQpmtnD8MJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jQpmtnD8MJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jQpmtnD8MJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-08T16:44:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "86mAuItEluiN3h0SUjEcinfGVVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v2WErFUizWM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-02T17:31:00Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مناظرة &quot;محمود داود &quot;&amp;&quot;زكريا بطرس&quot; سن أخزيا عندما ملك (۲۲ سنة – ٤۲ سنة) ؟!",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v2WErFUizWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v2WErFUizWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2WErFUizWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-02T17:31:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mZ-gBWTln4IxoO37CncZKnj26oE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tDlpJD20L9g"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T17:28:55Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "مسيحي يتهم النبي بالصرع و الجنون، فماذا حدث له ؟! 😱😲",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tDlpJD20L9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tDlpJD20L9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tDlpJD20L9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T17:28:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zj0t8HSVVzurCLvDOsrZ0pUIbmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AXRw52JzkG0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T18:56:01Z",
+        "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
+        "title": "هروب زكريا بطرس وإرميا بولس من سؤال محمود داود، ما هو السؤال؟!",
+        "description": "يمكنك دعم القناة بـ 3 طرق \" بايبال \" و \" الباتريون \" و \" الإنتساب \". أولاً: لدعم القناة عن طريق Paypal من هنا: https://paypal.me/M1Dawoud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXRw52JzkG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXRw52JzkG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXRw52JzkG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "محمود داود - Mahmoud Dawoud",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T18:56:01Z"
+      }
+    }
+  ]
+}

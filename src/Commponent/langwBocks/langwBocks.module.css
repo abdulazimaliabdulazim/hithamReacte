@@ -1,0 +1,41 @@
+/* Start Language */
+.langw {
+    position: absolute;
+    top: 76px;
+}
+.langw ul {
+    width: 136px;
+    background-color: rgba(0 0 0 / 50%);
+}
+.none {
+    display: none;
+}
+.langw button {
+    position: relative;
+    width: 136px;
+    height: 37px;
+    background-color: white;
+    color: var(--mane-color);
+    font-size: 19px;
+    padding: 5px;
+    cursor: pointer;
+    border: 2px solid var(--mane-color);
+    overflow: hidden;
+}    
+.langw button i {
+    position: absolute;
+    left: 10px;
+}
+.langw ul li {
+    cursor: pointer;
+    padding: 10px;
+    color: white;
+}
+.langw ul li:hover {
+    background-color: var(--mane-color);
+}
+/* End Language */
+
+.active {
+    background-color: var(--mane-color-opacty) !important;
+}
