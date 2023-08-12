@@ -5,6 +5,7 @@ import appStyle from "../App/App.module.css";
 import BockChild from "../BockChild/BockChild";
 import LangwBocks from "../langwBocks/langwBocks";
 import FilterBocks from "../FilterBock/FilterBock";
+import actived from "../functionalty/functionalty";
 
 // All
 import image1 from "./images/image-bock/download.jpg";
@@ -26,7 +27,7 @@ import image16 from "./images/image-bock/id-12.jpeg";
 import image17 from "./images/image-bock/id-14.jpeg";
 import image18 from "./images/image-bock/id-16.jpeg";
 import image19 from "./images/image-bock/id-17.jpeg";
-import image20 from "./images/image-bock/id-1.jpg";
+import image20 from "./images/image-bock/id-1.jpeg";
 // Alhadu
 import alhadu1 from "./images/image-bock/back5.jpg";
 import alhadu2 from "./images/image-bock/id-2.jpeg";
@@ -36,7 +37,7 @@ import alhadu5 from "./images/image-bock/id-6.jpeg";
 import alhadu6 from "./images/image-bock/id-10.jpeg";
 import alhadu7 from "./images/image-bock/id-11.jpeg";
 import alhadu8 from "./images/image-bock/id-12.jpeg";
-import alhadu9 from "./images/image-bock/id-1.jpg";
+import alhadu9 from "./images/image-bock/id-1.jpeg";
 // Eman
 import eman1 from "./images/image-bock/id-4.jpg";
 import eman2 from "./images/image-bock/id-8.jpeg";
@@ -68,20 +69,11 @@ import pharsy from "./images/image-bock/pharsy.png";
 import pplbiny from "./images/image-bock/pplbiny.png";
 import phdnamy from "./images/image-bock/phdnamy.png";
 
-// Class Active
-const activeFunction = (activeElement) => {
-  activeElement.forEach((a) => {
-    a.addEventListener("click", (e) => {
-      activeElement.forEach((a) => a.classList.remove(style.active));
-      e.currentTarget.classList.add(style.active);
-    });
-  });
-};
+actived(document.querySelectorAll(".uls_filter li"));
+actived(document.querySelectorAll(".urlLangw li"));
 
-activeFunction(document.querySelectorAll(".uls_filter li"));
-activeFunction(document.querySelectorAll(".urlLangw li"));
-
-const Bocks = () => {
+const Bocks = ({ hendllrFuncrion }) => {
+  console.log("Bocks");
   const [state] = useState({
     download: "تحميل الكتاب",
     iconDownload: "fa-solid fa-download fa-fw",
@@ -565,6 +557,7 @@ const Bocks = () => {
             {state[langwId][idBock].map((boak) => {
               return (
                 <BockChild
+                  hendllrFuncrion={hendllrFuncrion}
                   src={boak.url}
                   paragraph={boak.title}
                   link={boak.src_link}

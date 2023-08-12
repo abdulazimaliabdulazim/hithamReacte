@@ -3,6 +3,7 @@ import style from "./Footer.module.css";
 import Container from "../Container/Container";
 
 const Footer = () => {
+  console.log("Footer");
   return (
     <footer>
       <Container>

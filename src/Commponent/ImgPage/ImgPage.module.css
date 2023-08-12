@@ -1,0 +1,27 @@
+.parent {
+    background: #0e0e0ec7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.parent img {
+    width: 300px;
+    height: calc(100vh - 58.956px);
+}
+.parent h3 {
+    color: white;
+}
+.parent button {
+    position: absolute;
+    background: blue;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    top: 25px;
+    right: 25px;
+    cursor: pointer;
+}

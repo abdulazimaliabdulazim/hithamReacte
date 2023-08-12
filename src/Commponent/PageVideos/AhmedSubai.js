@@ -3,6 +3,8 @@ import style from "./SwitchChanall.module.css";
 import ahmedSubai from "../JSON/Ahmed.json";
 
 const AhmedSubai = () => {
+  console.log("AhmedSubai");
+  document.title = "أحمد سبيع";
   return (
     <div className={style.videos}>
       {ahmedSubai.items.map((ele) => {

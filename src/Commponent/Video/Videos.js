@@ -5,6 +5,7 @@ import appStyle from "../App/App.module.css";
 import chanallHitham from "../JSON/Hitham.json";
 
 const Videos = () => {
+  console.log("Videos");
   return (
     <div className={style.parent} id="videos">
       <h2 class={appStyle.main_title}>المرئيات</h2>

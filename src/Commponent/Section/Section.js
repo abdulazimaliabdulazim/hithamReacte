@@ -3,6 +3,8 @@ import Container from "../Container/Container";
 import style from "./Section.module.css";
 
 const Section = (props) => {
+  console.log("Section");
+  document.title = "الموقع الرسمي للدكتور هيثم طلعت";
   return (
     <Fragment>
       <section>

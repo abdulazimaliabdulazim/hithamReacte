@@ -3,6 +3,8 @@ import style from "./SwitchChanall.module.css";
 import hitham from "../JSON/Hitham.json";
 
 const Hitham = () => {
+  console.log("Hitham");
+  document.title = "هيثم طلعت";
   return (
     <div className={style.videos}>
       {hitham.items.map((ele) => {

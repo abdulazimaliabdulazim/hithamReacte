@@ -22,7 +22,4 @@
 .filter ul li:not(.active) {
     border-left: 3px solid var(--mane-color-opacty);
 }
-.active {
-    background-color: var(--mane-color-opacty) !important;
-}
 /* End Filter */

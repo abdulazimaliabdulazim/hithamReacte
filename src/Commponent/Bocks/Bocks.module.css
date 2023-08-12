@@ -104,7 +104,3 @@ article.articles .bocks .bock .text a.download:hover {
     }
 }
 /* End Article Book */
-
-.active {
-    background-color: var(--mane-color-opacty) !important;
-}

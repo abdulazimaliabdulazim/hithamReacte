@@ -1,11 +1,20 @@
 import React from "react";
 import style from "../Bocks/Bocks.module.css";
+import { useNavigate } from "react-router-dom";
 
-const BockChild = ({ paragraph, link, icon, src, text }) => {
+const BockChild = ({ paragraph, link, icon, src, text, hendllrFuncrion }) => {
+  const navigate = useNavigate();
   return (
     <div className={style.bock}>
       <div className={style.images}>
-        <img src={src} alt={paragraph} />
+        <img
+          onClick={(e) => {
+            hendllrFuncrion(e.target.src, paragraph);
+            navigate("images");
+          }}
+          src={src}
+          alt={paragraph}
+        />
       </div>
       <div className={style.text}>
         <p>{paragraph}</p>

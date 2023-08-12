@@ -3,6 +3,8 @@ import style from "./SwitchChanall.module.css";
 import saqqara from "../JSON/Monquth.json";
 
 const Saqqara = () => {
+  console.log("Saqqara");
+  document.title = "منقذ السقار";
   return (
     <div className={style.videos}>
       {saqqara.items.map((ele) => {

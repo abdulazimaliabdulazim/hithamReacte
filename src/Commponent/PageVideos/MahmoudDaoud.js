@@ -1,8 +1,10 @@
-import React, { Fragment } from "react";
+import React from "react";
 import style from "./SwitchChanall.module.css";
 import mahmoudDaoud from "../JSON/Mahmud.json";
 
 const MahmoudDaoud = () => {
+  console.log("MahmoudDaoud");
+  document.title = "محمود داود";
   return (
     <div className={style.videos}>
       {mahmoudDaoud.items.map((ele) => {

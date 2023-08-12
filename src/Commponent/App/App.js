@@ -8,6 +8,9 @@ import Channel from "../Channel/Channel";
 import Footer from "../Footer/Footer";
 import Social from "../Social/Social";
 import NavigationChannel from "../NavigationChannel/NavigationChannel";
+import ImgPage from "../ImgPage/ImgPage";
+import { useState } from "react";
+
 const Bocks = React.lazy(() => import("../Bocks/Bocks"));
 const Videos = React.lazy(() => import("../Video/Videos"));
 
@@ -25,10 +28,18 @@ const Saqqara = React.lazy(() => import("../PageVideos/Saqqara"));
 const TamerLabban = React.lazy(() => import("../PageVideos/TamerLabban"));
 
 const App = () => {
+  const [stateImg, setStateImg] = useState([]);
+  const hendllrFuncrion = (src, text) => {
+    const dedulsImages = {
+      src,
+      text,
+    };
+    setStateImg(dedulsImages);
+  };
+
   return (
     <Fragment>
       <Social />
-
       <BrowserRouter>
         <Routes>
           <Route
@@ -43,7 +54,7 @@ const App = () => {
                   <Videos />
                 </React.Suspense>
                 <React.Suspense fallback="Loading Bocks...">
-                  <Bocks />
+                  <Bocks hendllrFuncrion={hendllrFuncrion} />
                 </React.Suspense>
               </Fragment>
             }
@@ -218,6 +229,7 @@ const App = () => {
               </Fragment>
             }
           />
+          <Route path="images" element={<ImgPage stateImg={stateImg} />} />
         </Routes>
       </BrowserRouter>
       <Footer />

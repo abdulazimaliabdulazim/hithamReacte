@@ -3,6 +3,8 @@ import style from "./SwitchChanall.module.css";
 import tamerLabban from "../JSON/Tamer.json";
 
 const TamerLabban = () => {
+  console.log("TamerLabban");
+  document.title = "تامر اللبان";
   return (
     <div className={style.videos}>
       {tamerLabban.items.map((ele) => {

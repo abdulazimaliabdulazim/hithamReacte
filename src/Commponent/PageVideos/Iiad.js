@@ -3,6 +3,8 @@ import style from "./SwitchChanall.module.css";
 import iiad from "../JSON/Aiad.json";
 
 const Iiad = () => {
+  console.log("Iiad");
+  document.title = "إياد قنيبي";
   return (
     <div className={style.videos}>
       {iiad.items.map((ele) => {
